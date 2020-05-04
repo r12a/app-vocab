@@ -1,0 +1,60 @@
+﻿@ Source: Teach Yourself Hindi, Lesson 1
+§ serif
+# 200
+~ ltr
+! hi
+
+अँग्रेज़|ãgrez|englishman 
+अच्छा|att͡ʃaː|good 
+आदमी|aːdmiː|man, person 
+आप|aːp|you (formal/polite) 
+एक|eːk|one; a 
+और|ɔːr|and; more 
+कमरा|kamraː|room m. 
+क़मीज़|qamiːz|shirt f. 
+कुरसी|kursiː|chair f. 
+गंदा|gandaː|dirty 
+गुजराती|gud͡ʒaraːtiː|Gujarati 
+चाचा|t͡ʃaːt͡ʃaː|paternal uncle 
+चार|t͡ʃaːr|four 
+छोटा|t͡ʃʰoːʈaː|small 
+जार्मन|d͡ʒaːrman|German 
+जी नहीं|d͡ʒiː nahiː̃|no 
+जी हाँ|d͡ʒiː haː̃|yes 
+तुम|tum|you (familiar) 
+तू|tuː|you (intimate) 
+दो|doː|two 
+दोनों|doːnoː̃|both, the two 
+धोबी|dhoːbiː|washerman m. 
+नमस्ते|namasteː|greetings, goodbye f. 
+नहीं|nahiː̃|not 
+पंजाबी|pãd͡ʒaːbiː|Panjabi m. f. adj. 
+पाकिस्तानी|paːkɪstaːniː|Pakistani m. f. adj. 
+पिता|pɪtaː|father m. 
+बड़ा|baɽaː|big 
+बहू|bahuː|daughter in law, wife f. 
+बुढ़िया|buɽʱɪyaː|old woman f. 
+बेटी|beːʈiː|girl, daughter f. 
+भारतीय|bʱaːratiːy|Indian m. f. adj. 
+मकान|makaːn|house m. 
+माता|maːtaː|mother f. 
+मेज़|meːz|table f. 
+मैं|maĩ|I 
+यह|yeh|this, he, she, it 
+यहाँ|yahaː̃|here 
+ये|yeː|these, they; he, she (honorific) 
+राजा|raːd͡ʒaː|king, rajah mm. 
+लड़का|laɽkaː|boy m. 
+लड़की|laɽkiː|girl f. 
+लेकिन|leːkɪn|but 
+लोग|loːg|people m. 
+वह|veh|that, he, she, it 
+वहाँ|vahaː̃|there 
+वे|veː|those, they; he, she (honorific) 
+शक्ति|ʃakti|power f. 
+सफ़ेद|safeːd|white 
+साफ़|saːf|clean, clear 
+सिर्फ़|sɪrf|only 
+हम|ham|we 
+हिन्दुस्तानी|hɪndustaːniː|Indian m. f. adj. 
+हिन्दू|hɪnduː|Hindu m. f. adj. 

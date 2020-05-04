@@ -1,0 +1,26 @@
+﻿@ Source: Teach Yourself Arabic, Lesson 1
+§ Scheherazade
+# 200
+~ rtl
+! ar
+
+واحد|waːħɪd|one
+اثنين|ɪthnajn|two
+ثلاثة|thalaːtha|three
+اربعة|arbaʕa|four
+خمسة|xamsa|five
+ستّة|sɪtta|six
+سبعة|sabʕa|seven
+ثمانية|thamaːnɪja|eight
+تسعة|tɪsʕa|nine
+عشرة|ʕaʃara|ten
+١|waːħɪd|one
+٢|ɪthnajn|two
+٣|thalaːtha|three
+٤|arbaʕa|four
+٥|xamsa|five
+٦|sɪtta|six
+٧|sabʕa|seven
+٨|thamaːnɪja|eight
+٩|tɪsʕa|nine
+١٠|ʕaʃara|ten

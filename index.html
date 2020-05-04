@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Vocab tester</title>
+<meta name="description" content="" />
+<link rel="stylesheet" href="../shared/style/docs.css" />
+<link rel="stylesheet" href="localstyle.css" />
+<script src="../shared/code/boilerplate.js"></script>
+
+<script src="data/sample.js"></script> 
+<script src="drawVocab.js"></script> 
+</head>
+
+<body class="app">
+<header>
+<div id="header-boilerplate"></div>
+<script>document.getElementById('header-boilerplate').innerHTML = bp_appHeader('../shared/images/world.gif','Vocab tester','v10');</script>
+</header>
+
+
+<div class="sidebar noprint"> 
+	<h2 id="data" style="margin-top: 0;">Load vocab</h2> 
+	<div>	
+	
+	<input type="file" id="fileinput" multiple />
+
+	<!-- READ THE FILE(S) -->
+	<script>
+	var _logfile = ''
+	//var wordList = []
+
+	function readMultipleFiles(evt) {
+		//Retrieve all the files from the FileList object
+		var files = evt.target.files
+
+		if (files) {
+			for (var i=0, f; f=files[i]; i++) {
+				var r = new FileReader()
+				r.onload = (function(f) {
+					return function(e) {
+						// clear current UI
+						document.getElementById('foreign').textContent = 'Language to learn'
+						document.getElementById('foreign').dir = 'ltr'
+						document.getElementById('foreign').style.fontSize = '100%'
+						document.getElementById('foreign').style.fontFamily = 'ralewaywf'
+						document.getElementById('local').textContent = 'My language'
+						document.getElementById('transcrip').textContent = 'Transcription'
+						_logfile = ''
+						_counter = -1
+						
+						var contents = e.target.result
+						console.log( "Got the file.\n" 
+							  +"name: " + f.name + "\n"
+							  +"type: " + f.type + "\n"
+							  +"size: " + f.size + " bytes\n"
+								)
+						_logfile += contents
+						wordList = _logfile.split('\n')
+						wordList.push('✓|✓|✓')
+						
+						// remove metadata
+						if (debug) console.log(wordList)
+						var metadata, value
+						for (var m=0;m<wordList.length;m++) {
+							if (debug) console.log(m)
+							if (wordList[m].startsWith('@')) {
+								metadata = wordList.splice(m, 1)
+								if (debug) console.log('Removed', metadata[0])
+								m--
+								}
+							else if (wordList[m].startsWith('§')) {
+								metadata = wordList.splice(m, 1)
+								value = metadata[0].replace('§ ','')
+								if (debug) console.log('Set font to ', value)
+								document.getElementById('foreign').style.fontFamily = value
+								_fontFamily = value
+								m--
+								}
+							else if (wordList[m].startsWith('#')) {
+								metadata = wordList.splice(m, 1)
+								value = metadata[0].replace('# ','')+'%'
+								if (debug) console.log('Set font-size to ',value)
+								document.getElementById('foreign').style.fontSize = value
+								_fontSize = value
+								m--
+								}
+							else if (wordList[m].startsWith('~')) {
+								metadata = wordList.splice(m, 1)
+								value = metadata[0].replace('~ ','')
+								if (debug) console.log('Set direction to ',value)
+								document.getElementById('foreign').dir = value
+								_direction = value
+								m--
+								}
+							else if (wordList[m].startsWith('!')) {
+								metadata = wordList.splice(m, 1)
+								if (debug) console.log('Set direction to ',metadata[0].replace('! ',''))
+								document.getElementById('foreign').lang = metadata[0].replace('! ','')
+								m--
+								}
+							else if (wordList[m] == '') {
+								metadata = wordList.splice(m, 1)
+								if (debug) console.log('Removed blank line')
+								m--
+								}
+							}
+						if (debug) console.log(wordList)
+				   		}
+				})(f)
+				if (debug) console.log('logfile:',_logfile)
+
+				r.readAsText(f)
+			}   
+		} else {
+			  alert("Failed to load files")
+		}
+	  }
+
+	document.getElementById('fileinput').addEventListener('change', readMultipleFiles, false)
+</script>
+
+	</div>
+ 
+ 
+ 
+ 
+<div id="controls">
+<button onclick="actionRoutine( 'clickForeign' );">Next</button>
+<button onclick="actionRoutine( 'goBack' );">Back</button>
+<button onclick="actionRoutine( 'shuffle' );">Shuffle</button>
+<button onclick="actionRoutine( 'retest' );">Re-test</button>
+<button onclick="actionRoutine( 'restart' );">Restart</button>
+</div>
+
+
+
+<h2 id="language">Language direction</h2> 
+<div> 
+<p><label><input type="radio" name="langselector" checked="checked" onclick="actionRoutine( 'toLocal' );"> foreign to local</label></p> 
+<p><label><input type="radio" name="langselector" onclick="actionRoutine( 'toForeign' );"> local to foreign</label></p>
+</div>
+
+<h2 id="advance" >Advance settings</h2> 
+<div> 
+<p><label><input type="radio" name="revealselector" onclick="actionRoutine( 'toPhased' );" checked="checked"> phased</label></p>
+<p><label><input type="radio" name="revealselector" onclick="actionRoutine( 'toReview' );"> review</label></p>
+<p><label><input type="radio" name="revealselector" onclick="actionRoutine( 'toQuick' );"> quick test</label></p>
+</div>
+
+<h2 id="transcription">Show transcription?</h2> 
+<div> 
+<p><label><input type="radio" name="transcriptionselect" checked="checked" onclick="actionRoutine( 'showTransc' );"> yes</label>
+<label><input type="radio" name="transcriptionselect" onclick="actionRoutine( 'hideTransc' );"> no</label></p>
+</div>
+</div>
+ 
+ 
+ 
+ 
+<!--div id="controls">
+<button onclick="actionRoutine( 'clickForeign' );">Next</button>
+<button onclick="actionRoutine( 'retest' );">Re-test</button>
+<button onclick="actionRoutine( 'goBack' );">Back</button>
+<button onclick="actionRoutine( 'shuffle' );">Shuffle</button>
+<button onclick="actionRoutine( 'restart' );">Restart</button>
+</div-->
+
+
+
+
+<div id="displayArea"> 
+<div id="foreign" onclick="actionRoutine( 'clickForeign' );">Language to learn</div> 
+<div id="local">My language</div>
+</div> 
+<p id="transcrip">Transcription</p> 
+ 
+ 
+ 
+ 
+<!--div id="controls">
+<button onclick="actionRoutine( 'clickForeign' );">Next</button>
+<button onclick="actionRoutine( 'retest' );">Re-test</button>
+<button onclick="actionRoutine( 'goBack' );">Back</button>
+<button onclick="actionRoutine( 'shuffle' );">Shuffle</button>
+<button onclick="actionRoutine( 'restart' );">Restart</button>
+</div-->
+
+
+
+<p style="clear: both;"><a target="_blank" href="help" id="help">Help</a></p>
+<p><button onClick="printAll()">List all</button> <button onClick="document.getElementById('printout').innerHTML = ''">Clear</button></p>
+<table id="printout"></table>
+<div class="smallprint"><span id="version">
+See <a href="https://github.com/r12a/app-conversion/commits/gh-pages">recent changes</a>.
+Make a <a href="https://github.com/r12a/app-conversion/issues/new">comment</a>. 
+Licence <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-By</a> © <a href="mailto:r12a@w3.org">r12a</a> 
+</span>
+</div>
+
+<script>
+if (!document.getElementById) { alert('You need a JavaScript enabled browser to use these pages.'); }
+var testObject = document.getElementById.foreign;
+var answerObject = document.getElementById.local;
+var transcrnObject = document.getElementById.transcrn;
+
+
+
+// check for parameters and take appropriate action
+parameters = location.search.split('&')
+parameters[0] = parameters[0].substring(1)
+for (var p=0;p<parameters.length;p++) {  
+	pairs = parameters[p].split('=')
+	if (pairs[0] == 'q' && pairs[1]) { 
+		escapedInput.value = convertpEnc2Char(pairs[1])
+		displayResults(convertAllEscapes(escapedInput.value, "none"), escapedInput.id)
+		}
+	}
+
+	</script>
+</body>
+</html>

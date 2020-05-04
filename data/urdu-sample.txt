@@ -1,0 +1,34 @@
+﻿@ Source: Sample list of vocabulary, taken from http://r12a.github.io/scripts/arabic/
+§ Noto Nastaliq Urdu
+# 200
+~ rtl
+! ur
+
+اِینٹ|iːnʈ|brick
+تِین|tiːn|three
+گاری|gɑːriː|car
+اِنسَان|ɪnsɑːn|human
+کوئلہ|koɪlɑː|coal
+اُڑنَا|ʊɽ.nɑː|to fly
+سُست|sʊst|lazy
+خوش|xʊʃ|happy
+خود|xʊd|self
+اُوپر|uːpar|above
+پُورا|puːrɑː|absolutely
+ہندُو|hɪnduː|Hindu
+ایک|eːk|one
+بیٹا|beʈɑː|son
+بجے|bad͡ʒe|PM
+اوس|oːs|dew
+ٹوپی|ʈoːpiː|hat
+کو|koː|on
+شیرِ پنجاب|ʃer ɛ panʤɑːb|Lion of the Punjab
+درجۂ حرارت|dərd͡ʒa ɛ hərɑːrət|temperature
+آزادیٔ مذہب|ɑːzɑːdiː ɛ məzhəb|freedom of religion
+روئے زمین|ruː ɛ zamiːn|the surface of the ground
+اَیسا|ɛːsɑː|such a
+کَیسَا|kɛːsɑː|how
+قطرۂ آب|qatra ɛ ɑːb|drop of water
+اَور|ɔːr|and
+شَوق|ʃɔːq|interest
+نَو|nɔː|nine

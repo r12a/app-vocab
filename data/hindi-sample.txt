@@ -1,0 +1,64 @@
+﻿@ Source: Teach Yourself Hindi, Lesson 1
+§ serif
+# 200
+~ ltr
+! hi
+
+अँग्रेज़|aa.grez|englishman 
+अच्छा|acchaa|good 
+आदमी|aadmii|man, person 
+आप|aap|you (formal/polite) 
+एक|ek|one; a 
+और|aur|and; more 
+कमरा|kamraa|room m. 
+क़मीज़|qamiiz|shirt f. 
+कुरसी|kursii|chair f. 
+गंदा|gandaa|dirty 
+गुजराती||Gujarati 
+चाचा||paternal uncle 
+चार||four 
+छोटा||small 
+जार्मन||German 
+जी नहीं||no 
+जी हाँ||yes 
+तुम||you (familiar) 
+तू||you (intimate) 
+दो||two 
+दोनों||both, the two 
+धोबी||washerman m. 
+नमस्ते||greetings, goodbye f. 
+नहीं||not 
+पंजाबी||Panjabi m. f. adj. 
+पाकिस्तानी||Pakistani m. f. adj. 
+पिता||father m. 
+बड़ा||big 
+बहू||daughter in law, wife f. 
+बुढ़िया||old woman f. 
+बेटी||girl, daughter f. 
+भारतीय||Indian m. f. adj. 
+मकान||house m. 
+माता||mother f. 
+मेज़||table f. 
+मैं||I 
+यह||this, he, she, it 
+यहाँ||here 
+ये||these, they; he, she (honorific) 
+राजा||king, rajah mm. 
+लड़का||boy m. 
+लड़की||girl f. 
+लेकिन||but 
+लोग||people m. 
+वह||that, he, she, it 
+वहाँ||there 
+वे||those, they; he, she (honorific) 
+शक्ति||power f. 
+सफ़ेद||white 
+साफ़||clean, clear 
+सिर्फ़||only 
+हम||we 
+हिन्दुस्तानी||Indian m. f. adj. 
+हिन्दू||Hindu m. f. adj. 
+हूँ||am 
+हैं||are 
+है||is; are (with tuu) 
+हो||are (with tum)

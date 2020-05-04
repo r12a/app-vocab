@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Unicode code converter</title>
+<meta name="description" content="Helps you convert between Unicode character numbers, characters, UTF-8 and UTF-16 code units in hex, percent escapes,and Numeric Character References (hex and decimal)." />
+<link rel="stylesheet" href="../shared/style/docs.css" />
+<!--link rel="stylesheet" href="localstyle.css" /-->
+<script src="../shared/code/boilerplate.js"></script>
+
+<style>
+#versionInfo a { font-weight: bold; }
+h2 { font-size: 156%; }
+strong { color: orange; }
+</style>
+</head>
+
+<body class="app">
+<header>
+<div id="header-boilerplate"></div>
+<script>document.getElementById('header-boilerplate').innerHTML = bp_appHeader('../shared/images/world.gif','Vocab tester help','v10');</script>
+</header>
+
+
+<aside class="sidebar">
+  <div class="section">
+    <h2 class="flush">Related links</h2>
+    <p><a href="../pickers/">Character apps</a></p>
+    <p><a href="https://github.com/r12a/app-vocab/">Github repo</a></p>
+    <p><a href="https://github.com/r12a/app-vocab/issues">Raise an issue</a></p>
+  </div>
+</aside>
+
+
+<p>This app helps you learn a language by simulating flash cards to test you on vocabulary or dialogues. You can test in various ways, and directions.</p>
+
+
+
+
+<section>
+  <h2 id="use">Getting started</h2>
+
+<p>Follow these steps:</p>
+  
+  <ol>
+<li>
+<p>You'll need to load a vocabulary file to begin. These are very simple text files that you store on your computer and load into the app via the control below <samp>Load vocab</samp>. See the next section for details about how to write these files.</p>
+<p>If you are using an iPad, you can access these files by moving them to iCloud.</p>
+<p>The app comes with a very small set of Chinese terms built in, to allow you to experiment, or you can download one of the following files: <a href="data/hindi1.txt">hindi</a>, <a href="data/arabic1.txt">arabic</a>, <a href="data/russian3.txt">russian</a>.</p>
+</li>
+<li>Use the buttons just below <samp>Load vocab</samp>  to move through the vocab list. They do the following:
+<ul style="margin: 1em;">
+<li><samp>Next</samp> moves you forwards through the list.</li>
+<li><samp>Back</samp> moves you backwards through the list.</li>
+<li><samp>Shuffle</samp> randomises the order of items in the list.</li>
+<li><samp>Re-test</samp> allows you to test yourself again on the current item by copying it to the end of the list, so that it will appear again later.</li>
+<li><samp>Restart</samp> takes you to the beginning of the list.</li>
+</ul>
+<p>You can also use the cursor keys to move through the list of items.</p>
+<p>✓ indicates that you have reached the end of the list. If you continue forwards<samp></samp> you will start  again from the beginning of the list.</p>
+</li>
+<li><samp>Language direction.</samp> By default the app shows you an item in the foreign language, and then, when you click <samp>Next</samp>, reveals the translation. This control allows you to reverse the order in which these items are displayed.</li>
+<li><samp>Advanced settings</samp>. As just mentioned, by default the app reveals the foreign term and the translation one-by-one, ie. using a <samp>phased</samp> approach. The <samp>review</samp> setting shows both items simultaneously. The <samp>quick test</samp> shows only the top-most item, allowing you to still hide some information but move through the tests more quickly; it is useful if you feel confident you know the translations but want to do a quick review.</li>
+<li><samp>Show transcription</samp> does what it says. It can hide or show the transcription data, if there is any, for the items.</li>
+</ol>
+</section>
+
+
+
+
+<section>
+<h2 id="testfile">Writing a test file</h2>
+
+    <p>The main content of a test file consists of a single line per vocabulary item containing 3 items, separated by "|", in the following order.</p>
+<ol>
+<li>The term in the language you are learning.</li>
+<li>A transcription (optional).</li>
+<li>The translation of the term in your language.</li>
+</ol>
+<p>For example:</p>
+<p><code>человек|tɕɪlɐˈvʲek|human</code></p>
+<p>You can add what you want to the transcription entry. For example, you may also want to add information such as reminders about gender.</p>
+<p>For example:</p>
+<p><code>человек|tɕɪlɐˈvʲek m.|human</code></p>
+<p><span class="leadin">Metadata.</span> You can also add the following lines of metadata. Each line begins with a particular symbol followed by a space, then the data itself. These lines can appear anywhere in the file, and in any order (although if you have 2 lines of the same type, only the last will set a font, language, etc.).</p>
+<ul>
+<li><code>@</code> is a comment line. It will be ignored.</li>
+<li><code>§</code> should be followed by a font name. Choose a font you have on your system. The font will be applied to the text of the language you are learning.</li>
+<li><code>#</code> is followed by a number, indicating a percentage size for the same text item.</li>
+<li><code>~</code> is followed by either <code>rtl</code> or <code>ltr</code>. It indicates the base direction for the text of the language you are learning. If you are learning Arabic, Hebrew, Urdu, Dhivehi, N'Ko, etc. you should be sure to set this. It will cause the text to be right-aligned and will ensure punctuation marks appear in the expected places.</li>
+<li><code>!</code> is followed by a BCP47 language tag. This is often useful since the browser may behave differently, or use different fonts and styling, depending on the language of the text.</li>
+</ul>
+</section>
+<section>
+<h2>Listing all items</h2>
+    <p>Use the <samp>List all</samp> button at the bottom of the page to list all the vocabulary currently loaded in the app.</p>
+<p>The <samp>Clear</samp> button hides the list.</p>
+</section>
+<section id="versionInfo">
+</section>
+
+
+
+
+
+<div class="smallprint"><span id="version">
+See <a href="https://github.com/r12a/app-vocab/commits/gh-pages">recent changes</a>.
+Make a <a href="https://github.com/r12a/app-vocab/issues/new">comment</a>. 
+Licence <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-By</a> © <a href="mailto:r12a@w3.org">r12a</a> 
+</span>
+</div>
+
+<script>
+// check for parameters and take appropriate action
+parameters = location.search.split('&')
+parameters[0] = parameters[0].substring(1)
+for (var p=0;p<parameters.length;p++) {  
+	pairs = parameters[p].split('=')
+	if (pairs[0] == 'q' && pairs[1]) { 
+		escapedInput.value = convertpEnc2Char(pairs[1])
+		displayResults(convertAllEscapes(escapedInput.value, "none"), escapedInput.id)
+		}
+	}
+
+	</script>
+</body>
+</html>

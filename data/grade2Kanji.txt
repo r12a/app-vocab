@@ -1,0 +1,77 @@
+﻿@ This file includes all Level 2 Kanji characters.
+! ja
+# 200
+§ serif
+
+角|kado, san.kaku; tsuno |angle, horn
+走|hashi.ru |run
+丸|maru.ichi.nichi |round
+才|go.sai; sai.nou |talent; age suffix
+友| |friend
+夜| |night
+活| |activity, life
+通| |pass (through); communicate
+牛| |cow
+切| |cut
+父| |father
+少| |little
+太| |thick
+北| |north
+兄| |older brother
+色| |colour
+地| |ground, place
+多| |many
+会| |meet; society
+同| |same
+自| |self
+考| |think
+社| |company; society
+里| |countryside; league
+図| |drawing
+谷| |valley
+国| |country
+長| |long; chief
+歩| |walk
+妹| |younger sister
+前| |before
+食| |eat, food
+茶| |tea
+風| |wind; manner
+家| |house; family
+紙| |paper
+帰| |return
+時| |time
+雪| |snow
+雲| |cloud
+朝| |morning; dynasty
+道| |way
+電| |electricity
+話| |speak
+語| |language, word
+読| |read
+万|man |ten thousand
+方| |direction; square
+分| |divide, part; minute
+戸| |door
+今|ima, ko.toshi, *kyou |now
+元|moto.moto, gen.ki, gan.jitsu |origin, source
+止| |stop
+半| |half
+母| |mother
+古|furu.i, chuu.ko.sha |old
+行|i.ku, okona.u, yu.ki.saki, ryo.kou, san.gyou |go; line; do
+回| |turn around
+来|ku.ru, rai.nen |come
+作| |make, work
+言| |say
+明| |bright, clear
+京|tou.kyou |capital
+東|higashi, tou.kyou |east
+門|mon |gate
+知| |know
+思| |think
+高| |high
+買| |buy
+間| |interval
+聞| |hear
+曜|nichi.you.bi |day of the week

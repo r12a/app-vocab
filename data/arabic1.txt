@@ -1,0 +1,49 @@
+﻿@ Source: Teach Yourself Arabic, Lesson 1
+§ Scheherazade
+# 200
+~ rtl
+! ar
+
+رجل     رجال|rad͡ʒʊl, rɪd͡ʒaːl|man
+بيت     بيوت|bajt, bʊjuːt|house
+كتاب     كتب|kɪtaːb, kʊtʊb|book
+باب     أبواب|baːb, 'abwaːb|door
+مدير     مديرون|mʊdiːr, mʊdiːruːn|manager
+شارع     شوارع|ʃaːrɪʕ, ʃawaːrɪʕ|street
+ولد     أولاد|walad, ʔawlaːd|boy
+مكتب     مكاتب|maktab, makaːtɪb|desk, office
+شبّاك     شبابيك|ʃʊbbaːk, ʃabaːbiːk|window
+مطار     مطارات|matˤaːr, matˤaːraːt|airport
+طويل|tˤawiːl|long, tall
+قصير     قصار|qasˤiːr, qɪsˤaːr|short
+كبير     كبار|kabiːr, kɪbaːr|big; old (people)
+صغير     صغار|sˤaɣiːr, sˤiɣaːr|small; young (people)
+مثغول|maʃɣuːl|busy
+واسع|waːsɪʕ|spacious
+نافع|naːfɪʕ|useful
+مشهور     مشاهير|maʃhuːr, maʃaːhiːr|famous
+نحيف     نحاف|naħiːf, niħaːf|thin
+بعيد|baʕiːd|far, distant
+عريض|ʕariːðˤ|wide
+نضيف     نضاف|naðˤiːf, nɪðˤaːf|clean
+السلام عليكم|assaláːm ʕalájkum|hello
+وعليكم السلام|wa-ʕalajkum assaláːm|hello (reply)
+صباح الخير|sˤabaːħ al-xajr|good morning
+صباح النور|sˤabaːħ an-nuːr|good morning (reply)
+مساء الخير|masaː al-xajr|good evening
+مولء النور|masaː an-nuːr|good evening (reply)
+كيف حالك؟|kajfa ħaːlɪk/ak|how are you? (to a wo/man)
+الحمد لله|al-ħamdu lil-laːh|praise be to God (reply)
+أهلا وسهلا|ahlan wa-sahlan|welcome!
+أهلا بك|ahlan bik/i|reply to welcome m/f
+وأنت؟|wa-anta/i|and you? m/f
+بخير|bi-xayr|well (response to how are you?)
+من فضلك|mɪn fadˤl-ak|please
+تفضل|tafaddˤal|here you are, welcome
+شكرا|ʃʊkran|thank you
+نعم|naʕam|yes
+أو|aw|or
+لا|laː|no
+بدون|bɪduːn|without
+بكم هذا؟|bi-kum haːða?|how much is this?
+هرم، أهرام|háram, ʔahráːm|pyramid

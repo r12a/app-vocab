@@ -1,0 +1,46 @@
+#transcrip {
+	font-family: "Noto Sans", "Gentium Plus", "Doulos SIL", "Charis SIL", sans-serif;
+	font-size: 110%;
+	}
+#displayArea {
+	display: flex;
+	flex-direction: column;
+	font-size: 200%;
+	margin: 0 32% 0 7.5%;
+	text-align: start;
+	}
+
+#printout td {
+	padding: 10px;
+	vertical-align: middle;
+	}
+
+#help {
+    color: white;
+    background-color: #60ADFB;
+    padding: .2em .4em;
+    border-radius: 5px;
+    cursor: pointer;
+	}
+button {
+    color: #0C3;
+    font-size: 100%;
+    border-radius: 10px;
+    line-height: 1.5em;
+    padding: 5px;
+    border: 1px solid #DDD;
+	}
+
+#controls {
+	margin: 4em 32% 0 7.5%;
+	}
+#controls button {
+    margin: .5em;
+	width: 40%;
+	}
+#controls {
+    display: flex;
+    flex-direction: row;
+	flex-wrap: wrap;
+    margin: 2em 1em 0 0;
+	}

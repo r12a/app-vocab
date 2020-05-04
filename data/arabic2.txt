@@ -1,0 +1,48 @@
+@ Source: Teach Yourself Arabic, Lesson 2
+§ Scheherazade
+# 200
+~ rtl
+! ar
+
+طالب     طليب طلّاب|tˤaːlib, tˤalaba tˤullaːb|student
+كاتب     كتبة كتّاب|kaːtib, kataba kuttaːb|clerk
+صندوق     صناديق|sˤunduːq, sˤanaːdiːq|box
+صندوق     صناديق|sˤunduːq, sˤanaːdiːq|trunk
+دولاب     دواليب|dawlaːb, dawaːliːb|cupboard
+سائق     سوّاق سائقون|saː'iq, suwwaːq saː'iquːn|driver
+سكرتير|sikritiyr|secretary
+كلب     كلاب|kalb, kilaːb|dog
+حاكم     حاكمون حكام|ħaːkim, ħaːkimuːn ħukkaːm|ruler (of country)
+صحن     صحون|sˤaħn, sˤuħuːn|plate, dish
+تاجر     تجّار|taːjir, tujjaːr|merchant
+تاجر     تجّار|taːjir, tujjaːr|shopkeeper
+متحف     متاحف|matħaːf, mataːħif|museum
+موظّف     موظّفون|muwaðˤðˤaf, muwaðˤðˤafuːn|employee
+موظّف     موظّفون|muwaðˤðˤaf, muwaðˤðˤafuːn|official
+عادل|ʕaːdil|honest
+جميل|jamiːl|beautiful
+عادل|ʕaːdil|just
+جميل|jamiːl|handsome
+غائب|ɣaː'ib|absent
+حاضر|ħaːdˤir|present (adj)
+ثقيل|θaqiːl|heavy
+فارغ|faːriɣ|empty
+شاطر     شطّار|shaːtˤir, shutˤtˤaːr|clever
+سمين     سمان|samiːn, simaːn|fat
+قريب|qariːb|near
+مملوء|mamluː'|full
+خفيف|khafiːf|light
+مكسور|makusuːr|broken
+سليم|saliːm|Salim
+عمر|ʕomar|Omar
+رشيد|rashiːd|Rashid
+أحمد|'aħmad|Ahmad
+جون|joːn|John
+روبرت|roːbart|Robert
+نعم|naʕam|yes
+لا|laː|no
+أنا|ana|I
+أنت|anta|you (m)
+أنت|anti|you (f)
+هو|huwa|he
+هي|hiya|she
