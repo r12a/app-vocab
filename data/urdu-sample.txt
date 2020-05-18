@@ -4,31 +4,31 @@
 ~ rtl
 ! ur
 
-اِینٹ|iːnʈ|brick
-تِین|tiːn|three
-گاری|gɑːriː|car
-اِنسَان|ɪnsɑːn|human
-کوئلہ|koɪlɑː|coal
-اُڑنَا|ʊɽ.nɑː|to fly
-سُست|sʊst|lazy
-خوش|xʊʃ|happy
-خود|xʊd|self
-اُوپر|uːpar|above
-پُورا|puːrɑː|absolutely
-ہندُو|hɪnduː|Hindu
-ایک|eːk|one
-بیٹا|beʈɑː|son
-بجے|bad͡ʒe|PM
-اوس|oːs|dew
-ٹوپی|ʈoːpiː|hat
-کو|koː|on
-شیرِ پنجاب|ʃer ɛ panʤɑːb|Lion of the Punjab
-درجۂ حرارت|dərd͡ʒa ɛ hərɑːrət|temperature
-آزادیٔ مذہب|ɑːzɑːdiː ɛ məzhəb|freedom of religion
-روئے زمین|ruː ɛ zamiːn|the surface of the ground
-اَیسا|ɛːsɑː|such a
-کَیسَا|kɛːsɑː|how
-قطرۂ آب|qatra ɛ ɑːb|drop of water
-اَور|ɔːr|and
-شَوق|ʃɔːq|interest
-نَو|nɔː|nine
+تِین|three|tiːn
+گاری|car|gɑːriː
+اِنسَان|human|ɪnsɑːn
+کوئلہ|coal|koɪlɑː
+اُڑنَا|to fly|ʊɽ.nɑː
+سُست|lazy|sʊst
+خوش|happy|xʊʃ
+خود|self|xʊd
+اُوپر|above|uːpar
+پُورا|absolutely|puːrɑː
+ہندُو|Hindu|hɪnduː
+ایک|one|eːk
+بیٹا|son|beʈɑː
+اِینٹ|brick|iːnʈ
+بجے|PM|bad͡ʒe
+اوس|dew|oːs
+ٹوپی|hat|ʈoːpiː
+کو|on|koː
+شیرِ پنجاب|Lion of the Punjab|ʃer ɛ panʤɑːb
+درجۂ حرارت|temperature|dərd͡ʒa ɛ hərɑːrət
+آزادیٔ مذہب|freedom of religion|ɑːzɑːdiː ɛ məzhəb
+روئے زمین|the surface of the ground|ruː ɛ zamiːn
+اَیسا|such a|ɛːsɑː
+کَیسَا|how|kɛːsɑː
+قطرۂ آب|drop of water|qatra ɛ ɑːb
+اَور|and|ɔːr
+شَوق|interest|ʃɔːq
+نَو|nine|nɔː
