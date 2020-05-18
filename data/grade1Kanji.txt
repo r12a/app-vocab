@@ -3,51 +3,51 @@
 # 200
 § serif
 
-人|hito, san.nin, gai.jin |person
-入|nyuu.jou.ken, i.ri.guchi, hai.ru |enter, put in
-土|tsuchi, do.you.bi |earth, ground
-上|ue, a.garu, nobo.ru |up; over; go up
-下|shita, kuda.sai |down
-夕|yuu.gata |evening
-大|oo.kii, dai.gaku |big
-女|kano.jo, onna no hito |woman
-子|ko.domo, den.shi |child
-小|chii.sai, ko.inu |small
-山|fuji.san, yama |mountain
-川|kawa |river
-中|naka ni, chuu.goku |middle
-円|en, maru.i |circle; yen
-天|ten.ki |heaven
-手|un.ten.shu, te |hand; occupational suffix
-日|hi, nichi.you.bi, mik.ka |sun; day
-月|tsuki, ik.ka.getsu, ichi.gatsu |moon; month
-木|moku.you.bi, ki |tree, wood
-水|sui.you.bi, mizu |water
-火|ka.you.bi, hi |fire
-犬|inu |dog
-出|de.ru, da.su, shup.patsu |leave
-本|hon, moto |root, origin; book; this
-正|tada.shii, shou.jiki na |correct, proper
-生|i.kiru |life, to be born
-田|sui.den, ta.naka, *inaka |rice field
-白|shiro.i, haku.jin |white
-目|me |eye; item
-立|ta.tsu |stand, rise
-休|yasu.mu |rest
-先|sen.shuu, o.saki.ni |previous
-年|toshi, ichi.nen |year
-早|haya.i |early
-気|gen.ki |spirit
-百|hyaku |hundred
-竹|chiku.rin, take no ko |bamboo
-虫|mushi |insect
-町|machi, ten.nou.chou |town, block
-男|dan.sei, otoko no hito |man
-見|ken.butsu suru, mi.ru |see
-車|kuruma, ji.dou.sha |vehicle
-学|gaku.sei |study
-林|hayashi |woods
-雨|ame |rain
-草|kusa |grass
-校|gak.kou, kou.sei |school; collate
-森|mori |forest
+人|person|hito, san.nin, gai.jin
+入|enter, put in|nyuu.jou.ken, i.ri.guchi, hai.ru 
+土|earth, ground|tsuchi, do.you.bi 
+上|up; over; go up|ue, a.garu, nobo.ru 
+下|down|shita, kuda.sai 
+夕|evening|yuu.gata 
+大|big|oo.kii, dai.gaku 
+女|woman|kano.jo, onna no hito 
+子|child|ko.domo, den.shi 
+小|small|chii.sai, ko.inu 
+山|mountain|fuji.san, yama 
+川|river|kawa 
+中|middle|naka ni, chuu.goku 
+円|circle; yen|en, maru.i 
+天|heaven|ten.ki 
+手|hand; occupational suffix|un.ten.shu, te 
+日|sun; day|hi, nichi.you.bi, mik.ka 
+月|moon; month|tsuki, ik.ka.getsu, ichi.gatsu 
+木|tree, wood|moku.you.bi, ki 
+水|water|sui.you.bi, mizu 
+火|fire|ka.you.bi, hi 
+犬|dog|inu 
+出|leave|de.ru, da.su, shup.patsu 
+本|root, origin; book; this|hon, moto 
+正|correct, proper|tada.shii, shou.jiki na 
+生|life, to be born|i.kiru 
+田|rice field|sui.den, ta.naka, *inaka 
+白|white|shiro.i, haku.jin 
+目|eye; item|me 
+立|stand, rise|ta.tsu 
+休|rest|yasu.mu 
+先|previous|sen.shuu, o.saki.ni 
+年|year|toshi, ichi.nen 
+早|early|haya.i 
+気|spirit|gen.ki 
+百|hundred|hyaku 
+竹|bamboo|chiku.rin, take no ko 
+虫|insect|mushi 
+町|town, block|machi, ten.nou.chou 
+男|man|dan.sei, otoko no hito 
+見|see|ken.butsu suru, mi.ru 
+車|vehicle|kuruma, ji.dou.sha 
+学|study|gaku.sei 
+林|woods|hayashi 
+雨|rain|ame 
+草|grass|kusa 
+校|school; collate|gak.kou, kou.sei 
+森|forest|mori 
