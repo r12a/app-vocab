@@ -123,7 +123,7 @@ onLoad="actionRoutine('toForeign'); actionRoutine('toReview')"-->
 						// check whether there are notes (affects drawing of table later)
 						settings.thereAreNotes = false
 						for (var n=0;n<wordList.length;n++) {
-							if (wordList[n][3] === '') {
+							if (wordList[n][3] !== '') {
 								settings.thereAreNotes = true
 								break
 								}

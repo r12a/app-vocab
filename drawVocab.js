@@ -39,7 +39,7 @@ function actionRoutine ( context, location ) {
 	case 'localAtTop':	 
 			document.getElementById('displayArea').style.flexDirection = 'column'
 			document.getElementById('local').style.minHeight = '20vh'
-			document.getElementById('foreign').style.height = 'unset'
+			document.getElementById('foreign').style.minHeight = 'unset'
 			settings.testDirection = 'localAtTop'
 			//_test = 0
 			//_answer = 2
@@ -49,7 +49,7 @@ function actionRoutine ( context, location ) {
 			break;
 	case 'foreignAtTop':
 			document.getElementById('displayArea').style.flexDirection = 'column-reverse'
-			document.getElementById('local').style.height = 'unset'
+			document.getElementById('local').style.minHeight = 'unset'
 			document.getElementById('foreign').style.minHeight = '20vh'
 			settings.testDirection = 'foreignAtTop'
 			//_test = 0
