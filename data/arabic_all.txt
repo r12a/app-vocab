@@ -1,0 +1,169 @@
+@ Source: Teach Yourself Arabic, Lesson 3
+§ Scheherazade
+# 200
+~ rtl
+! ar
+
+@ 1
+رجل/رجال|man|rad͡ʒʊl/rɪd͡ʒaːl|رَجُل/رِجَال
+بيت/بيوت|house|bajt/bʊjuːt|بَيت/بُيُوت
+كتاب/كتب|book|kɪtaːb/kʊtʊb|كِتَاب/كُتُب
+باب/أبواب|door|baːb/ʔabwaːb|بَاب/أَبوَاب
+مدير/مديرون|manager|mʊdiːr/mʊdiːruːn|مُدِير/مُدِيرُون
+شارع/شوارع|street|ʃaːrɪʕ/ʃawaːrɪʕ|شَارِع/شَوَارِع
+ولد/أولاد|boy|walad/ʔawlaːd|وَلَد/أَولَاد
+مكتب/مكاتب|office, desk|maktab, makaːtɪb|مَكتَب/مَكَاتِب
+شباك/شبابيك|window|ʃʊbbaːk/ʃabaːbiːk|شُبَّاك/شَبَابِيك
+مطار/مطارات|airport|matˤaːr/matˤaːraːt|مَطَار/مَطَارَات
+هرم / أهرام|pyramid|ˈharam / ʔahˈraːm|هَرَم / أَهرَام
+شاي|tea|ʃaːj|شَاي
+سكر|sugar|ˈsʊkkar|سُكَّر
+تاكسي|taxi|ˈtaːksiː|تَاكسِي
+مصباح|lamp|mɪsˤˈbaːħ|مِصبَاح
+سحري|magic|ˈsɪħriː|سِحرِي
+سندوتش|sandwich|sandawɪtʃ|سَندَوِتش
+
+طويل|tall (person)|tˤawiːl|طَوِيل
+قصير / قصار|short|qasˤiːr / qɪsˤaːr|قَصِير / قِصَار
+كبير / كبار|big; old (people)|kabiːr / kɪbaːr|كَبِير / كِبَار
+صغير / صغار|small; young (people)|sˤaɣiːr / sˤɪɣaːr|صَغِير / صِغَار
+مشغول|busy|maʃɣuːl|مَشْغُول
+واسع|spacious|waːsɪʕ|وَاسِع
+مفيد|useful|mʊfiːd|مُفِيد
+مشهور / مشاهير|famous|maʃhuːr / maʃaːhiːr|مَشْهُور / مَشَاهِير
+نحيف / نحاف|thin|naħiːf / nɪħaːf|نَحِيف / نِحَاف
+بعيد|far, distant|baʕiːd|بَعِيد
+نضيف / نضاف|clean|nadˤiːf / nɪdˤaːf|نَضِيف / نِضَاف
+
+السلام عليكم|hello|assaˈlaːm ʕaˈlajkʊm|السَلَام عَلَيكُم
+وعليكم السلام|hello (in reply)|waʕaˈlajkʊm assaˈlaːm|وَعَلَيكُم السَلَام
+صباح الخير|good morning|sˤaˈbaːħ al-xajr|صَبَاح الخَير
+صباح النور|good morning (in reply)|sˤaˈbaːħ annuːr|صَبَاح النُور
+مساء الخير|good evening|maˈsaːʔ al-xajr|مَسَاء الخَير
+مساء النور|good evening (in reply)|maˈsaːʔ annuːr|مَسَاء النُور
+كيف حالك؟|How are you?|kajfa ˈħaːl(a/i)k?|كَيفَ حَالَك؟
+الحمد لله|reply to how are you|al-ˈħamdʊ lɪlˈlah|الحَمدُ لِلَّه
+بخير|well (reply to how are you)|bɪxajr|بِخَير
+أهلا وسهلا|welcome!|ˈʔahlan wa-ˈsahlan|أَهلًا وَسَهلًا
+أهلا بك|reply to welcome|ˈʔahlan bɪk(ɪ)|أَهلًا بِك
+من فضلك|please|mɪn ˈfadˤlak|مِن فَضلَك
+بكم هذا؟|how much is this?|bɪkʊm ˈhaːða?|بِكُم هَذَا؟
+تفضل|here you are, you're welcome|taˈfaddˤal|تَفَضَّل
+شكرا|thank you|ˈʃʊkran|شُكرًا
+نعم|yes|ˈnaʕam|نَعَم
+أو|or|ʔaw|أَو
+لا|no|laː|لَا
+
+بدون|without|bɪduːn|بِدُون
+
+
+
+
+@2
+اسم / إسماء|name|ɪsm / ʔɪsmaːʔ|اِسم / إِسمَاء
+طالب / طلاب|student|tˤaːlib / tˤullaːb|طَالِب / طُلَّاب
+كاتب / كتاب|scribe|kaːtɪb / kɪttaːb|كَاتِب / كِتَّاب
+مدينة / مدن|city|madiːnaʰ / mʊdʊn|مَدِينَة / مُدُن
+متحف / متاحف|museum|matħaf / mataːħɪf|مَتحَف / مَتَاحِف
+فندق / فنادق|hotel|ˈfʊndʊq / fanaːdɪqʊ|فُندُق / فَنَادِقُ
+مطعم / مطاعم|restaurant|ˈmatˤʕam / matˤaːʕɪmʊ|مَطعَم / مَطَاعِمُ
+رقم تلفون|telephone number|raqm tɪlɪˈfuːn|رَقْم تِلِفُون
+سيارة|car|sajˈjaːraʰ|سَيَّارَة
+مطار / مطارات|airport|matˤaːr / matˤaːraːt|مَطَار / مَطَارَات
+
+
+حسن|well, right, ok|ħasanan|حَسَنً
+هناك|there is, there are|hʊˈnaːka|هُنَاكَ
+طبعا|naturally, of course|ˈtˤabʕan|طَبعًا
+
+
+ما؟ / ماذا؟|what?|maː? / maːðaː?|مَا؟ / مَاذَا؟
+
+
+على|on|ˈʕalaː|عَلَى
+إلى|to, towards|ˈʔɪlaː|إِلَى
+ 
+
+جدن|very|d͡ʒɪddan|جِدَّن
+قديم|old (things)|qadiːm|قَدِيم
+قريب من|near|qariːb mɪn|قَرِيب مِن
+ممتاز|excellent|mʊmˈtaːz|مُمتَاز
+مشغول|busy (occupied)|maʃɣuːl|مَشغُول
+
+
+هنا|here|ˈhʊnaː|هُنَا
+القاهرة|Cairo|al-ˈqaːhɪraʰ|القَاهِرَة
+الجيزة|Giza|alˈɡiːzaʰ|الجِيزَة
+مصر|Egypt|mɪsˤr|مِصر
+أمريكا|America|ʔamˈriːkaː|أَمرِيكَا
+اليابان|Japan|al-jaːˈbaːn|اليَابَان
+روسيا|Russia|ˈruːsjaː|رُوسيَا
+أستراليا|Australia|ʔʊstʊraːlijaː|أُستُرَالِيَا
+البحرين|Bahrain|al-baħrajn|البَحرَين
+
+
+أن|I|ˈʔana|أَنَ
+أنت|you (m/f)|ˈʔanta / ˈʔantɪ|أَنتَ / أَنتِ
+هو / هي|he, she|ˈhuwa / ˈhija|هُوَ / هِي
+نحن|we|ˈnaħnʊ|نَحنُ
+أنتم / أنتن|you (m pl, f pl)|ʔantʊm / ʔantʊnna|أَنتُم / أَنتُنَّ
+هم / هن|they (m pl, f pl)|hʊm / hʊnna|هُم / هُنَّ
+
+
+
+
+@3
+⁦مرحبا|hi, welcome|marħaban|مَرحَبًا
+عن إذنك|Excuse me!|ʕan ʔɪðnɪk|عَن إِذنِك
+مع الأسف|I'm sorry|maʕa l-ʔasaf|مَعَ الأَسَف
+ما عملك؟|What's your occupation?|maː ʕamalɪk?|مَا عَمَلِك؟
+
+
+طبيب أسنان|dentist|tˤabiːb ʔasnaːn|طَبِيب أَسنَان
+صيدلية|pharmacy|sˤajdaliːjaʰ|صَيدَلِيَّة
+راكب / ركاب|passenger|raːkɪb / rʊkkaːb|رَاكِب / رُكَّاب
+جامعة|university|ˈd͡ʒaːmɪʕaʰ|جَامِعَة
+طبيب / أطباء|doctor|tˤabiːb / ʔatˤɪbbaːʔʊ|طَبِيب / أَطِبَّاءُ
+مدرس / مدرسون|teacher|mʊdarrɪs / mʊdarrɪsuːn|مُدَرِّس / مُدَرِّسُون
+مهندس / مهندسون|engineer|mʊhandɪs / mʊhandɪsuːn|مُهَندِس / مُهَندِسُون
+مدير|manager|mʊdiːr|مُدِير
+رئيس|boss|raʔiːs|رَئِيس
+جسر / جسور|bridge|d͡ʒɪsr / d͡ʒʊsuːr|جِسر / جُسُور
+محل / محلات|shop, store|maħall / maħallaːt|مَحَلّ / مَحَلَّات
+وسط (وسط)|middle|wastˤ (wasatˤ)|وَسط (وَسَط)
+حقيبة \ حقائب|bag|ħaˈqiːbaʰ \ ħaqaːʔɪbʊ|حَقِيبَة \ حَقَائِبُ
+غرفة / غرف|room|ɣʊrfaʰ / ɣʊraf|غُرفَة / غُرَف
+لغة|language|ˈlʊɣaʰ|لُغَة
+جنسية|nationality|d͡ʒɪnsijjaʰ|جِنسِيَّة
+
+
+إنجلترا|England|ʔɪnɡɪlˈtarraː|إِنجِلتَرَّا
+عمان|Amman|ʕammaːn|عَمَّان
+الأردن|Jordan|al-ʔʊrdʊnn|الأُردُنّ
+أردني|Jordanian|ʔʊrdʊniː|أُردُنِي
+إنجليزي|English|ʔɪnɡliːziː|إِنجلِيزِي
+العربية (عربي)|Arabic|al-ʕaraˈbijjaʰ (ʕaraˈbiːj)|العَرَبِيَّة (عَرَبِيّ)
+بريطانيا|Britain|briːtˤaːnjaː|برِيطَانيَا
+مكة|Mecca|makkaʰ|مَكَّة
+المغرب|Morocco|al-maɣrɪb|المَغرِب
+الكويت|Kuwait|al-kuːajt|الكُوَيت
+
+
+يتكلم|to speak|jatakallam|يَتَكَلَّم<br>ataˈkallam<br>tataˈkallam, tatakallaˈmiːn<br>yataˈkallam, tataˈkallam
+
+غير|other than|ɣajr|غَير
+فقط|only|ˈfaqatˤ|فَقَط
+قليلة|a little, few|qaliːlaʰ|قَلِيلَة
+كثير|many, much|kaˈθiːr|كَثِير
+ثقيل|heavy|θaˈqiːl|ثَقِيل
+أي|any|ʔajj|أَيّ
+بطلاقة|fluently|bɪtˤalaːqaʰ|بِطَلَاقَة
+قليلا|slightly, a bit|qaliːlan|قَلِيلًا
+سعيد|happy, joyful|saʕiːd|سَعِيد
+
+
+
+
+
+
+क क़ कि की के क़ि क़ी क़े क्क क्कि क्की र्क र्क्क र्क्कि स्त्र स्त्रि स्त्री

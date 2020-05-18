@@ -4,46 +4,53 @@
 ~ rtl
 ! ar
 
-رجل     رجال|rad͡ʒʊl, rɪd͡ʒaːl|man
-بيت     بيوت|bajt, bʊjuːt|house
-كتاب     كتب|kɪtaːb, kʊtʊb|book
-باب     أبواب|baːb, 'abwaːb|door
-مدير     مديرون|mʊdiːr, mʊdiːruːn|manager
-شارع     شوارع|ʃaːrɪʕ, ʃawaːrɪʕ|street
-ولد     أولاد|walad, ʔawlaːd|boy
-مكتب     مكاتب|maktab, makaːtɪb|desk, office
-شبّاك     شبابيك|ʃʊbbaːk, ʃabaːbiːk|window
-مطار     مطارات|matˤaːr, matˤaːraːt|airport
-طويل|tˤawiːl|long, tall
-قصير     قصار|qasˤiːr, qɪsˤaːr|short
-كبير     كبار|kabiːr, kɪbaːr|big; old (people)
-صغير     صغار|sˤaɣiːr, sˤiɣaːr|small; young (people)
-مثغول|maʃɣuːl|busy
-واسع|waːsɪʕ|spacious
-نافع|naːfɪʕ|useful
-مشهور     مشاهير|maʃhuːr, maʃaːhiːr|famous
-نحيف     نحاف|naħiːf, niħaːf|thin
-بعيد|baʕiːd|far, distant
-عريض|ʕariːðˤ|wide
-نضيف     نضاف|naðˤiːf, nɪðˤaːf|clean
-السلام عليكم|assaláːm ʕalájkum|hello
-وعليكم السلام|wa-ʕalajkum assaláːm|hello (reply)
-صباح الخير|sˤabaːħ al-xajr|good morning
-صباح النور|sˤabaːħ an-nuːr|good morning (reply)
-مساء الخير|masaː al-xajr|good evening
-مولء النور|masaː an-nuːr|good evening (reply)
-كيف حالك؟|kajfa ħaːlɪk/ak|how are you? (to a wo/man)
-الحمد لله|al-ħamdu lil-laːh|praise be to God (reply)
-أهلا وسهلا|ahlan wa-sahlan|welcome!
-أهلا بك|ahlan bik/i|reply to welcome m/f
-وأنت؟|wa-anta/i|and you? m/f
-بخير|bi-xayr|well (response to how are you?)
-من فضلك|mɪn fadˤl-ak|please
-تفضل|tafaddˤal|here you are, welcome
-شكرا|ʃʊkran|thank you
-نعم|naʕam|yes
-أو|aw|or
-لا|laː|no
-بدون|bɪduːn|without
-بكم هذا؟|bi-kum haːða?|how much is this?
-هرم، أهرام|háram, ʔahráːm|pyramid
+رجل/رجال|man|rad͡ʒʊl/rɪd͡ʒaːl|رَجُل/رِجَال
+بيت/بيوت|house|bajt/bʊjuːt|بَيت/بُيُوت
+كتاب/كتب|book|kɪtaːb/kʊtʊb|كِتَاب/كُتُب
+باب/أبواب|door|baːb/ʔabwaːb|بَاب/أَبوَاب
+مدير/مديرون|manager|mʊdiːr/mʊdiːruːn|مُدِير/مُدِيرُون
+شارع/شوارع|street|ʃaːrɪʕ/ʃawaːrɪʕ|شَارِع/شَوَارِع
+ولد/أولاد|boy|walad/ʔawlaːd|وَلَد/أَولَاد
+مكتب/مكاتب|office, desk|maktab, makaːtɪb|مَكتَب/مَكَاتِب
+شباك/شبابيك|window|ʃʊbbaːk/ʃabaːbiːk|شُبَّاك/شَبَابِيك
+مطار/مطارات|airport|matˤaːr/matˤaːraːt|مَطَار/مَطَارَات
+هرم / أهرام|pyramid|ˈharam / ʔahˈraːm|هَرَم / أَهرَام
+شاي|tea|ʃaːj|شَاي
+سكر|sugar|ˈsʊkkar|سُكَّر
+تاكسي|taxi|ˈtaːksiː|تَاكسِي
+مصباح|lamp|mɪsˤˈbaːħ|مِصبَاح
+سحري|magic|ˈsɪħriː|سِحرِي
+سندوتش|sandwich|sandawɪtʃ|سَندَوِتش
+
+طويل|tall (person)|tˤawiːl|طَوِيل
+قصير / قصار|short|qasˤiːr / qɪsˤaːr|قَصِير / قِصَار
+كبير / كبار|big; old (people)|kabiːr / kɪbaːr|كَبِير / كِبَار
+صغير / صغار|small; young (people)|sˤaɣiːr / sˤɪɣaːr|صَغِير / صِغَار
+مشغول|busy|maʃɣuːl|مَشْغُول
+واسع|spacious|waːsɪʕ|وَاسِع
+مفيد|useful|mʊfiːd|مُفِيد
+مشهور / مشاهير|famous|maʃhuːr / maʃaːhiːr|مَشْهُور / مَشَاهِير
+نحيف / نحاف|thin|naħiːf / nɪħaːf|نَحِيف / نِحَاف
+بعيد|far, distant|baʕiːd|بَعِيد
+نضيف / نضاف|clean|nadˤiːf / nɪdˤaːf|نَضِيف / نِضَاف
+
+السلام عليكم|hello|assaˈlaːm ʕaˈlajkʊm|السَلَام عَلَيكُم
+وعليكم السلام|hello (in reply)|waʕaˈlajkʊm assaˈlaːm|وَعَلَيكُم السَلَام
+صباح الخير|good morning|sˤaˈbaːħ al-xajr|صَبَاح الخَير
+صباح النور|good morning (in reply)|sˤaˈbaːħ annuːr|صَبَاح النُور
+مساء الخير|good evening|maˈsaːʔ al-xajr|مَسَاء الخَير
+مساء النور|good evening (in reply)|maˈsaːʔ annuːr|مَسَاء النُور
+كيف حالك؟|How are you?|kajfa ˈħaːl(a/i)k?|كَيفَ حَالَك؟
+الحمد لله|reply to how are you|al-ˈħamdʊ lɪlˈlah|الحَمدُ لِلَّه
+بخير|well (reply to how are you)|bɪxajr|بِخَير
+أهلا وسهلا|welcome!|ˈʔahlan wa-ˈsahlan|أَهلًا وَسَهلًا
+أهلا بك|reply to welcome|ˈʔahlan bɪk(ɪ)|أَهلًا بِك
+من فضلك|please|mɪn ˈfadˤlak|مِن فَضلَك
+بكم هذا؟|how much is this?|bɪkʊm ˈhaːða?|بِكُم هَذَا؟
+تفضل|here you are, you're welcome|taˈfaddˤal|تَفَضَّل
+شكرا|thank you|ˈʃʊkran|شُكرًا
+نعم|yes|ˈnaʕam|نَعَم
+أو|or|ʔaw|أَو
+لا|no|laː|لَا
+
+بدون|without|bɪduːn|بِدُون

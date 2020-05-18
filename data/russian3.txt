@@ -4,38 +4,38 @@
 ~ ltr
 ! ru
 
-човет|sa-vyét|soviet
-бюро|byoo-ró|office
-дядя|dyá-dya|uncle
-Кремль|kryemly|Kremlin
-царь|tsary|tsar
-город|gó-rat|town
-женщина|zhén-shshee-na|woman
-Сибирь|see-béery|Siberia
-письмо|peesy-mó|letter
-утро|óo-tra|morning
-такси|tak-sée|taxi
-где|gdye|where?
-здравстуйте|zdrá-stvooy-tye|hello
-как|kak|how?
-медленно|myé-dlye-na|slowly
-спасибо|spa-sée-ba|thank you
-пожалуйста|pa-zhál-sta|please / don't mention it (in reply to спасибо)
-хорошо|ha-ra-shó|well / good / OK
-американец|a-mye-ree-ká-nyets|American (m)
-американка|a-mye-ree-kán-ka|American (f)
-англичанин|an-glee-chá-neen|Englishman
-англичанка|an-glee-chán-ka|Englishwoman
-друг|drook|friend
+бюро|office|byoo-ró
+дядя|uncle|dyá-dya
+Кремль|Kremlin|kryemly
+царь|tsar|tsary
+город|town|gó-rat
+женщина|woman|zhén-shshee-na
+Сибирь|Siberia|see-béery
+письмо|letter|peesy-mó
+утро|morning|óo-tra
+такси|taxi|tak-sée
+где|where?|gdye
+здравстуйте|hello|zdrá-stvooy-tye
+как|how?|kak
+медленно|slowly|myé-dlye-na
+спасибо|thank you|spa-sée-ba
+пожалуйста|please / don't mention it (in reply to спасибо)|pa-zhál-sta
+хорошо|well / good / OK|ha-ra-shó
+американец|American (m)|a-mye-ree-ká-nyets
+американка|American (f)|a-mye-ree-kán-ka
+англичанин|Englishman|an-glee-chá-neen
+англичанка|Englishwoman|an-glee-chán-ka
+друг|friend|drook
 студентка|stoo-dyént-ka|
-учительница|oo-chée-tyely-nee-tsa|teacher
-Москва|mask-vá|Moscow
-кто|kto|who
-очень|ó-chyeny|very
-что|shto|that, what
-это|é-ta|this
-знать|znaty|to know
-понимать|pa-nee-máty|to understand
-говорить|ga-va-reety|to speak
-простите|pra-stée-tye|excuse me
-работать|ra-bó-taty|to work
+човет|soviet|sa-vyét
+учительница|teacher|oo-chée-tyely-nee-tsa
+Москва|Moscow|mask-vá
+кто|who|kto
+очень|very|ó-chyeny
+что|that, what|shto
+это|this|é-ta
+знать|to know|znaty
+понимать|to understand|pa-nee-máty
+говорить|to speak|ga-va-reety
+простите|excuse me|pra-stée-tye
+работать|to work|ra-bó-taty

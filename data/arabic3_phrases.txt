@@ -1,0 +1,38 @@
+﻿@ Source: Teach Yourself Arabic, Lesson 3 dialogues
+§ Scheherazade
+# 200
+~ rtl
+! ar
+
+مرحبا.  أأنت مصري؟|Hi! Are you Egyptian?|marħaban.  ʔaʔanta mɪsˤriː?|مَرحَبًا.  أَأَنتَ مِصرِي؟
+لا، أن سوداني من الخرطوم.  وأنت؟|No, I'm Sudanese from Khartoum. And you?|laː, ʔana suːdaːniː mɪn al-xartˤuːm.  waʔanta?|لَا، أَنَ سُودَانِي مِن الخَرطُوم.  وَأَنتَ؟
+أن مصري من طنطا.|I'm Egyptian from Tantaa.|ʔana mɪsˤriː mɪn tˤantˤaː.|أَنَ مِصرِي مِن طَنطَا.
+أين طنطا؟|Where is Tantaa?|ʔajna tˤantˤaː?|أَينَ طَنطَا؟
+طنطا قريبة من القاهرة.|Tantaa is close to Cairo.|tˤantˤaː qariːbaʰ mɪn al-qaːhɪraʰ.|طَنطَا قَرِيبَة مِن القَاهِرَة.
+
+
+أنا مصرية، وأنت يا مايك؟|I'm Egyptian. And you, Mike?|ʔana mɪsˤriːjja, waʔanta jaː maːjk?|أَنَا مِصرِيَّة، وَأَنتَ يَا مَايك؟
+أنا إنجليزي.|I'm English.|ʔana ʔɪnɡliːziː.|أَنَا إِنجلِيزِي.
+أنا أسترالية.|I'm Australian.|ʔana ʔʊstraːlɪjjaʰ.|أَنَا أُسترَالِيَّة.
+أنا لبناني. أنا من بيروت.|I'm Lebanese. I'm from Beirut.|ʔana lʊbnaːniː. ʔana mɪn bajruːt.|أَنَا لُبنَانِي. أَنَا مِن بَيرُوت.
+
+
+عن إذنك. من أين أنت.|Excuse me. Where are you from?|ʕan ʔɪðnɪk. mɪn ʔajna ʔantɪ.|عَن إِذنِك. مِن أَينَ أَنتِ.
+أنا من إنجلتارا. وأنت؟|I'm from England. And you?|ʔana mɪn ʔɪnɡɪltaːrraː. waʔanta?|أَنَا مِن إِنجِلتَارَّا. وَأَنتَ؟
+أنا من عمان. أنا أردني.|I'm from Amman. I'm Jordanian.|ʔana mɪn ʕammaːn. ʔana ʔʊrdʊniː.|أَنَا مِن عَمَّان. أَنَا أُردُنِي.
+هل تتكلم إنجليزي؟|Do you speak English?|hal tatakallam ʔɪnɡliːziː?|هَل تَتَكَلَّم إِنجلِيزِي؟
+لا، مع الأسف، لا أتكلم إنجليزي. أتكلم عربي فقط.|No, I'm sorry, I don't speak English. I only speak Arabic.|laː, maʕa l-ʔasaf, laː ʔatakallam ʔɪnɡliːziː. ʔatakallam ʕarabiː faqatˤ.|لَا، مَعَ الأَسَف، لَا أَتَكَلَّم إِنجلِيزِي. أَتَكَلَّم عَرَبِي فَقَط.
+تتكلمين العربية بطالقة!|You speak Arabic fluently!|tatakallamiːn al-ʕarabiːjjaʰ bɪtˤaːlaqaʰ!|تَتَكَلَّمِين العَرَبِيَّة بِطَالَقَة!
+لا، قليلة فقط.|No, only a little.|laː, qaliːlaʰ faqatˤ.|لَا، قَلِيلَة فَقَط.
+
+
+ما عملك؟|What's your occupation?|maː ˈʕamalɪk?|مَا عَمَلِك؟
+أنا طالبة في جامعة لندن. وأنت؟|I'm a student, at London University. And you?|ˈʔana ˈtˤaːlɪbaʰ fiː ˈd͡ʒaːmɪʕat ˈlandan. waʔanta?|أَنَا طَالِبَة فِي جَامِعَة لَندَن. وَأَنتَ؟
+أنا طبيب في عمان.|I'm a doctor from Amman.|ʔana tˤaˈbiːb fiː ʕaˈmaːn.|أَنَا طَبِيب فِي عَمَان.
+
+هل لندن مدينة كبيرة؟|Is London a big city?|hal ˈlandan maˈdiːnaʰ kaˈbiːraʰ?|هَل لَندَن مَدِينَة كَبِيرَة؟
+نعم، هي مدينة كبيرة جدا. هناك متاحف كبيرة كثيرة وخسور ومحلات.|Yes, it's a very big city. There are many big museums and bridges and shops.|ˈnaʕam, ˈhija maˈdiːnaʰ kaˈbiːraʰ ˈd͡ʒɪddan. hʊˈnaːka maˈtaːħɪf kaˈbiːraʰ kaθiːraʰ wad͡ʒusuːr wamaħallaːt.|نَعَم، هِيَ مَدِينَة كَبِيرَة جِدًّا. هُنَاكَ مَتَاحِف كَبِيرَة كَثِيرَة وَخُسُور وَمَحَلَّات.
+أين الجامعة؟|Where is the university?|ˈʔajna lˈd͡ʒaːmɪʕaʰ?|أَينَ الجَامِعَة؟
+هي في وسط المدينة، قريب من المتحف البريطاني.|It is in the middle of the town, near the British Museum.|ˈhija fiː wastˤ al-maˈdiːnaʰ, qaˈriːba mɪn al-ˈmatħaf al-briːtˤaːniː.|هِيَ فِي وَسط المَدِينَة، قَرِيبَ مِن المَتحَف البرِيطَانِيَّ.
+
+

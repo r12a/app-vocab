@@ -4,45 +4,51 @@
 ~ rtl
 ! ar
 
-طالب     طليب طلّاب|tˤaːlib, tˤalaba tˤullaːb|student
-كاتب     كتبة كتّاب|kaːtib, kataba kuttaːb|clerk
-صندوق     صناديق|sˤunduːq, sˤanaːdiːq|box
-صندوق     صناديق|sˤunduːq, sˤanaːdiːq|trunk
-دولاب     دواليب|dawlaːb, dawaːliːb|cupboard
-سائق     سوّاق سائقون|saː'iq, suwwaːq saː'iquːn|driver
-سكرتير|sikritiyr|secretary
-كلب     كلاب|kalb, kilaːb|dog
-حاكم     حاكمون حكام|ħaːkim, ħaːkimuːn ħukkaːm|ruler (of country)
-صحن     صحون|sˤaħn, sˤuħuːn|plate, dish
-تاجر     تجّار|taːjir, tujjaːr|merchant
-تاجر     تجّار|taːjir, tujjaːr|shopkeeper
-متحف     متاحف|matħaːf, mataːħif|museum
-موظّف     موظّفون|muwaðˤðˤaf, muwaðˤðˤafuːn|employee
-موظّف     موظّفون|muwaðˤðˤaf, muwaðˤðˤafuːn|official
-عادل|ʕaːdil|honest
-جميل|jamiːl|beautiful
-عادل|ʕaːdil|just
-جميل|jamiːl|handsome
-غائب|ɣaː'ib|absent
-حاضر|ħaːdˤir|present (adj)
-ثقيل|θaqiːl|heavy
-فارغ|faːriɣ|empty
-شاطر     شطّار|shaːtˤir, shutˤtˤaːr|clever
-سمين     سمان|samiːn, simaːn|fat
-قريب|qariːb|near
-مملوء|mamluː'|full
-خفيف|khafiːf|light
-مكسور|makusuːr|broken
-سليم|saliːm|Salim
-عمر|ʕomar|Omar
-رشيد|rashiːd|Rashid
-أحمد|'aħmad|Ahmad
-جون|joːn|John
-روبرت|roːbart|Robert
-نعم|naʕam|yes
-لا|laː|no
-أنا|ana|I
-أنت|anta|you (m)
-أنت|anti|you (f)
-هو|huwa|he
-هي|hiya|she
+اسم / إسماء|name|ɪsm / ʔɪsmaːʔ|اِسم / إِسمَاء
+طالب / طلاب|student|tˤaːlib / tˤullaːb|طَالِب / طُلَّاب
+كاتب / كتاب|scribe|kaːtɪb / kɪttaːb|كَاتِب / كِتَّاب
+مدينة / مدن|city|madiːnaʰ / mʊdʊn|مَدِينَة / مُدُن
+متحف / متاحف|museum|matħaf / mataːħɪf|مَتحَف / مَتَاحِف
+فندق / فنادق|hotel|ˈfʊndʊq / fanaːdɪqʊ|فُندُق / فَنَادِقُ
+مطعم / مطاعم|restaurant|ˈmatˤʕam / matˤaːʕɪmʊ|مَطعَم / مَطَاعِمُ
+رقم تلفون|telephone number|raqm tɪlɪˈfuːn|رَقْم تِلِفُون
+سيارة|car|sajˈjaːraʰ|سَيَّارَة
+مطار / مطارات|airport|matˤaːr / matˤaːraːt|مَطَار / مَطَارَات
+
+
+حسن|well, right, ok|ħasanan|حَسَنً
+هناك|there is, there are|hʊˈnaːka|هُنَاكَ
+طبعا|naturally, of course|ˈtˤabʕan|طَبعًا
+
+
+ما؟ / ماذا؟|what?|maː? / maːðaː?|مَا؟ / مَاذَا؟
+
+
+على|on|ˈʕalaː|عَلَى
+إلى|to, towards|ˈʔɪlaː|إِلَى
+ 
+
+جدن|very|d͡ʒɪddan|جِدَّن
+قديم|old (things)|qadiːm|قَدِيم
+قريب من|near|qariːb mɪn|قَرِيب مِن
+ممتاز|excellent|mʊmˈtaːz|مُمتَاز
+مشغول|busy (occupied)|maʃɣuːl|مَشغُول
+
+
+هنا|here|ˈhʊnaː|هُنَا
+القاهرة|Cairo|al-ˈqaːhɪraʰ|القَاهِرَة
+الجيزة|Giza|alˈɡiːzaʰ|الجِيزَة
+مصر|Egypt|mɪsˤr|مِصر
+أمريكا|America|ʔamˈriːkaː|أَمرِيكَا
+اليابان|Japan|al-jaːˈbaːn|اليَابَان
+روسيا|Russia|ˈruːsjaː|رُوسيَا
+أستراليا|Australia|ʔʊstʊraːlijaː|أُستُرَالِيَا
+البحرين|Bahrain|al-baħrajn|البَحرَين
+
+
+أن|I|ˈʔana|أَنَ
+أنت|you (m/f)|ˈʔanta / ˈʔantɪ|أَنتَ / أَنتِ
+هو / هي|he, she|ˈhuwa / ˈhija|هُوَ / هِي
+نحن|we|ˈnaħnʊ|نَحنُ
+أنتم / أنتن|you (m pl, f pl)|ʔantʊm / ʔantʊnna|أَنتُم / أَنتُنَّ
+هم / هن|they (m pl, f pl)|hʊm / hʊnna|هُم / هُنَّ

@@ -4,23 +4,23 @@
 ~ rtl
 ! ar
 
-واحد|waːħɪd|one
-اثنين|ɪthnajn|two
-ثلاثة|thalaːtha|three
-اربعة|arbaʕa|four
-خمسة|xamsa|five
-ستّة|sɪtta|six
-سبعة|sabʕa|seven
-ثمانية|thamaːnɪja|eight
-تسعة|tɪsʕa|nine
-عشرة|ʕaʃara|ten
-١|waːħɪd|one
-٢|ɪthnajn|two
-٣|thalaːtha|three
-٤|arbaʕa|four
-٥|xamsa|five
-٦|sɪtta|six
-٧|sabʕa|seven
-٨|thamaːnɪja|eight
-٩|tɪsʕa|nine
-١٠|ʕaʃara|ten
+واحد|one|waːħɪd
+اثنين|two|ɪthnajn
+ثلاثة|three|thalaːtha
+اربعة|four|arbaʕa
+خمسة|five|xamsa
+ستّة|six|sɪtta
+سبعة|seven|sabʕa
+ثمانية|eight|thamaːnɪja
+تسعة|nine|tɪsʕa
+عشرة|ten|ʕaʃara
+١|one|waːħɪd
+٢|two|ɪthnajn
+٣|three|thalaːtha
+٤|four|arbaʕa
+٥|five|xamsa
+٦|six|sɪtta
+٧|seven|sabʕa
+٨|eight|thamaːnɪja
+٩|nine|tɪsʕa
+١٠|ten|ʕaʃara

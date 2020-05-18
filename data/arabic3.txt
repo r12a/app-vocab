@@ -1,0 +1,53 @@
+@ Source: Teach Yourself Arabic, Lesson 3
+§ Scheherazade
+# 200
+~ rtl
+! ar
+
+⁦مرحبا|hi, welcome|marħaban|مَرحَبًا
+عن إذنك|Excuse me!|ʕan ʔɪðnɪk|عَن إِذنِك
+مع الأسف|I'm sorry|maʕa l-ʔasaf|مَعَ الأَسَف
+ما عملك؟|What's your occupation?|maː ʕamalɪk?|مَا عَمَلِك؟
+
+
+طبيب أسنان|dentist|tˤabiːb ʔasnaːn|طَبِيب أَسنَان
+صيدلية|pharmacy|sˤajdaliːjaʰ|صَيدَلِيَّة
+راكب / ركاب|passenger|raːkɪb / rʊkkaːb|رَاكِب / رُكَّاب
+جامعة|university|ˈd͡ʒaːmɪʕaʰ|جَامِعَة
+طبيب / أطباء|doctor|tˤabiːb / ʔatˤɪbbaːʔʊ|طَبِيب / أَطِبَّاءُ
+مدرس / مدرسون|teacher|mʊdarrɪs / mʊdarrɪsuːn|مُدَرِّس / مُدَرِّسُون
+مهندس / مهندسون|engineer|mʊhandɪs / mʊhandɪsuːn|مُهَندِس / مُهَندِسُون
+مدير|manager|mʊdiːr|مُدِير
+رئيس|boss|raʔiːs|رَئِيس
+جسر / جسور|bridge|d͡ʒɪsr / d͡ʒʊsuːr|جِسر / جُسُور
+محل / محلات|shop, store|maħall / maħallaːt|مَحَلّ / مَحَلَّات
+وسط (وسط)|middle|wastˤ (wasatˤ)|وَسط (وَسَط)
+حقيبة \ حقائب|bag|ħaˈqiːbaʰ \ ħaqaːʔɪbʊ|حَقِيبَة \ حَقَائِبُ
+غرفة / غرف|room|ɣʊrfaʰ / ɣʊraf|غُرفَة / غُرَف
+لغة|language|ˈlʊɣaʰ|لُغَة
+جنسية|nationality|d͡ʒɪnsijjaʰ|جِنسِيَّة
+
+
+إنجلترا|England|ʔɪnɡɪlˈtarraː|إِنجِلتَرَّا
+عمان|Amman|ʕammaːn|عَمَّان
+الأردن|Jordan|al-ʔʊrdʊnn|الأُردُنّ
+أردني|Jordanian|ʔʊrdʊniː|أُردُنِي
+إنجليزي|English|ʔɪnɡliːziː|إِنجلِيزِي
+العربية (عربي)|Arabic|al-ʕaraˈbijjaʰ (ʕaraˈbiːj)|العَرَبِيَّة (عَرَبِيّ)
+بريطانيا|Britain|briːtˤaːnjaː|برِيطَانيَا
+مكة|Mecca|makkaʰ|مَكَّة
+المغرب|Morocco|al-maɣrɪb|المَغرِب
+الكويت|Kuwait|al-kuːajt|الكُوَيت
+
+
+يتكلم|to speak|jatakallam|يَتَكَلَّم<br>ataˈkallam<br>tataˈkallam, tatakallaˈmiːn<br>yataˈkallam, tataˈkallam
+
+غير|other than|ɣajr|غَير
+فقط|only|ˈfaqatˤ|فَقَط
+قليلة|a little, few|qaliːlaʰ|قَلِيلَة
+كثير|many, much|kaˈθiːr|كَثِير
+ثقيل|heavy|θaˈqiːl|ثَقِيل
+أي|any|ʔajj|أَيّ
+بطلاقة|fluently|bɪtˤalaːqaʰ|بِطَلَاقَة
+قليلا|slightly, a bit|qaliːlan|قَلِيلًا
+سعيد|happy, joyful|saʕiːd|سَعِيد
