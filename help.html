@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
 <meta charset="utf-8" />
-<title>Unicode code converter</title>
-<meta name="description" content="Helps you convert between Unicode character numbers, characters, UTF-8 and UTF-16 code units in hex, percent escapes,and Numeric Character References (hex and decimal)." />
+<title>Vocab tester help</title>
+<meta name="description" content="Helps you learn vocabulary when studying another language." />
 <link rel="stylesheet" href="../shared/style/docs.css" />
 <!--link rel="stylesheet" href="localstyle.css" /-->
 <script src="../shared/code/boilerplate.js"></script>
@@ -18,7 +18,7 @@ strong { color: orange; }
 <body class="app">
 <header>
 <div id="header-boilerplate"></div>
-<script>document.getElementById('header-boilerplate').innerHTML = bp_appHeader('../shared/images/world.gif','Vocab tester help','v10');</script>
+<script>document.getElementById('header-boilerplate').innerHTML = bp_appHeader('../shared/images/world.gif','Vocab tester help','v11');</script>
 </header>
 
 
@@ -52,14 +52,14 @@ strong { color: orange; }
 <ul style="margin: 1em;">
 <li><samp>Next</samp> moves you forwards through the list.</li>
 <li><samp>Back</samp> moves you backwards through the list.</li>
+<li><samp>Re-test</samp> allows you to test yourself again on the current item by copying it to the end of the list. This means that it will be presented to you again later.</li>
 <li><samp>Shuffle</samp> randomises the order of items in the list.</li>
-<li><samp>Re-test</samp> allows you to test yourself again on the current item by copying it to the end of the list, so that it will appear again later.</li>
 <li><samp>Restart</samp> takes you to the beginning of the list.</li>
 </ul>
 <p>You can also use the cursor keys to move through the list of items.</p>
-<p>✓ indicates that you have reached the end of the list. If you continue forwards<samp></samp> you will start  again from the beginning of the list.</p>
+<p>The app indicates when you have reached the end of the list. If you continue forwards<samp></samp> you will start  again from the beginning of the list.</p>
 </li>
-<li><samp>Language direction.</samp> By default the app shows you an item in the foreign language, and then, when you click <samp>Next</samp>, reveals the translation. This control allows you to reverse the order in which these items are displayed.</li>
+<li><samp>Language direction.</samp> By default the app shows you an item in your language, and then, when you click <samp>Next</samp>, reveals the translation. This control allows you to reverse the order in which these items are displayed.</li>
 <li><samp>Advanced settings</samp>. As just mentioned, by default the app reveals the foreign term and the translation one-by-one, ie. using a <samp>phased</samp> approach. The <samp>review</samp> setting shows both items simultaneously. The <samp>quick test</samp> shows only the top-most item, allowing you to still hide some information but move through the tests more quickly; it is useful if you feel confident you know the translations but want to do a quick review.</li>
 <li><samp>Show transcription</samp> does what it says. It can hide or show the transcription data, if there is any, for the items.</li>
 </ol>
@@ -70,18 +70,23 @@ strong { color: orange; }
 
 <section>
 <h2 id="testfile">Writing a test file</h2>
-
-    <p>The main content of a test file consists of a single line per vocabulary item containing 3 items, separated by "|", in the following order.</p>
+<p>The main content of a test file consists of a single line per vocabulary item containing 2-4 items, separated by "|", in the following order.</p>
 <ol>
 <li>The term in the language you are learning.</li>
-<li>A transcription (optional).</li>
 <li>The translation of the term in your language.</li>
+<li>A transcription (optional).</li>
+<li>Notes for this item (optional).</li>
 </ol>
 <p>For example:</p>
-<p><code>человек|tɕɪlɐˈvʲek|human</code></p>
+<p><code>человек|human|tɕɪlɐˈvʲek</code></p>
 <p>You can add what you want to the transcription entry. For example, you may also want to add information such as reminders about gender.</p>
 <p>For example:</p>
-<p><code>человек|tɕɪlɐˈvʲek m.|human</code></p>
+<p><code>человек|human|tɕɪlɐˈvʲek m.</code></p>
+<p>The notes field can contain whatever you want. For scripts like Arabic or Hebrew it is often useful to store the fully-vowelled version of the term here. The notes are only shown in the <samp>List</samp> tab, but they are also searched in the <samp>Find</samp> tab.</p>
+<p>For example:</p>
+<p><code>سيارة|car|sajˈjaːraʰ|سَيَّارَة</code></p>
+
+
 <p><span class="leadin">Metadata.</span> You can also add the following lines of metadata. Each line begins with a particular symbol followed by a space, then the data itself. These lines can appear anywhere in the file, and in any order (although if you have 2 lines of the same type, only the last will set a font, language, etc.).</p>
 <ul>
 <li><code>@</code> is a comment line. It will be ignored.</li>
@@ -91,10 +96,27 @@ strong { color: orange; }
 <li><code>!</code> is followed by a BCP47 language tag. This is often useful since the browser may behave differently, or use different fonts and styling, depending on the language of the text.</li>
 </ul>
 </section>
+
+
+
+
+
+
 <section>
 <h2>Listing all items</h2>
-    <p>Use the <samp>List all</samp> button at the bottom of the page to list all the vocabulary currently loaded in the app.</p>
-<p>The <samp>Clear</samp> button hides the list.</p>
+    <p>The <samp>List </samp> tab lists all the vocabulary currently loaded in the app. If the file is shuffled, or an item is moved to the end of the list for re-testing, the list reflects the new order.</p>
+<p>Notes are shown in the list tab, if there are any.</p>
+</section>
+
+
+
+
+
+
+<section>
+<h2>Searching for items</h2>
+    <p>The <samp>Find </samp> tab allows you to search for an item in the list. The search string can use regular expressions.</p>
+<p>If you create an additional file that contains all the items for a given language, this can serve as a very useful way to look up any vocabulary you have learnt.</p>
 </section>
 <section id="versionInfo">
 </section>
