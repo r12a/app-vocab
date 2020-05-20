@@ -47,7 +47,7 @@
 #transcrip {
 	margin-top: 6em;
 	}
-#printout td {
+#printout td, #foundItems td {
 	padding: 10px;
 	vertical-align: middle;
 	}

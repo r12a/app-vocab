@@ -295,6 +295,48 @@ function switchTabTo (tab) {
 
 
 
+function findWords (reg, sortkey) { 
+
+    var regex = new RegExp(reg)
+    result = []
+    for (i=0;i<window.lineList.length;i++) {
+        if (window.lineList[i].match(regex)) result.push( window.lineList[i] )
+        }
+    result.sort(compareByWord)
+
+	document.getElementById('found').textContent = result.length
+
+    var out = ''
+	var itemArray
+    for (let i=0;i<result.length;i++) { 
+		itemArray = result[i].split('|')
+		out += '<tr>'
+		out += '<td dir="'+_direction+'" style="font-family:'+_fontFamily+'; font-size:'+_fontSize+'" style="font-family:\'Noto Sans\'; font-size:14px">'+itemArray[0]+'</td>'
+		out += '<td>'+itemArray[1]+'</td>'
+		out += '<td class="trans_column">'+itemArray[2]+'</td>'
+		if (settings.thereAreNotes) {
+			if (wordList[i][_notes] == null) out += '<td></td>'
+			else out += '<td>'+itemArray[3]+'</td>'
+			}
+		out += '</tr>\n'
+        } console.log(out)
+    return out
+	}
+
+function compareByWord(a,b) { 
+  if (a < b)         
+    return 1;
+  if (a > b)
+    return -1;
+  return 0;
+	}
+
+
+
+
+
+
+
 
 // KEY EVENT INITIALISATION
 

@@ -350,11 +350,12 @@ onLoad="actionRoutine('toForeign'); actionRoutine('toReview')"-->
 <!--p><button onClick="printAll()">List all</button> <button onClick="document.getElementById('printout').innerHTML = ''">Clear</button></p-->
 
 
-<p><label>Find words containing the following: <input id="needle" type="text" placeholder="Regex works!"  onChange="document.getElementById('out').value = findWords(document.getElementById('needle').value, '')"></label> &nbsp;&nbsp;
-<button onClick="document.getElementById('out').value = findWords(document.getElementById('needle').value, '')">Go</button>
+<p><label>Find words containing the following: <input id="needle" type="text" placeholder="Regular expressions can be used."  onChange="document.getElementById('foundItems').innerHTML = findWords(document.getElementById('needle').value, '')"></label> &nbsp;&nbsp;
+<button onClick="document.getElementById('foundItems').innerHTML = findWords(document.getElementById('needle').value, '')">Go</button>
 </p>
 
-<p><label>Output: <span id="found"></span><br/><textarea id="out" style="width: 100%; height: 600px; font-size: 100%;">Results go here</textarea></label></p>
+<p><label>Items found: <span id="found"></span></label><br/><table id="foundItems"></table></p>
+<!--p><label>Output: <span id="found"></span><br/><textarea id="out" style="width: 100%; height: 600px; font-size: 100%;">Results go here</textarea></label></p>
 <script>
 function findWords (reg, sortkey) { 
 
@@ -380,7 +381,7 @@ function compareByWord(a,b) {
     return -1;
   return 0;
 	}
-</script>
+</script-->
 </div>
 
 
