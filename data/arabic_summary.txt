@@ -1,0 +1,69 @@
+@ Source: Arabic script summary https://r12a.github.io/scripts/arabic/
+§ Scheherazade
+# 200
+~ rtl
+! ar
+
+ريح / رياح|wind|riːħ / rijaːħ|رِيح / رِيَاح
+اسم / إسماء|name|ɪsm / ʔɪsmaːʔ|اِسم / إِسمَاء
+أذن / آذان|ear|ʔʊðʊn /ʔaːðaːn|أُذُن / آذَان
+دودة / ديدان|worm|duːdaʰ / diːdaːn|دُودَة / دِيدَان
+سكرتير|secretary|sɪkrɪteːr|سِكرِتِير
+قدم / أقدام|foot|qadam / ʔaqdaːm|قَدَم / أَقدَام
+ساق / سيقان|leg|saːq / siːqaːn|سَاق / سِيقَان
+رمى|to throw|ramaː|رَمَى
+ليلة / ليال|night|lajlaʰ / lajaːlɪn|لَيْلَة / لَيَالٍ
+يوم / أيام|day|jawm / ʔajjaːm|يَوْم / أَيَّام
+
+قلب / قلوب|heart|qalb / qʊluːb|قَلب / قُلُوب
+تاريخ|history|taːriːx|تَارِيخ
+أن|I|ˈʔana|أَنَ
+رسميا|officially|rasmiːjan|رَسمِيًا
+كتبوا|they wrote|katabuː|كَتَبُوا
+معنى|meaning|maʕnaː|مَعنَى
+معناهم|their meaning|maʕnaːhum|مَعنَاهُم
+العربية|arabic (language)|al-ʕarabijjaʰ|العَرَبِيَّة
+فورا|immediately|fuːran|فُورًا
+أفعى|snake|ʔafʕan|أَفعًى
+عادة|usually|ʕaːdatan|عَادَةً
+هذا|this (s.)|haːða|هٰذَا
+ذٰلك / تلك|that|ðaːlɪka / tɪlka|ذٰلِكَ / تِلكَ
+عين / أعين|eye|ʕajn / ʔaʕjʊn f.|عَيْن / أَعْيُن
+عودة|return|ʕawdaʰ (n.)|عَوْدَة
+باكستان|Pakistan|paːkɪstaːn|بَاكِسْتَان
+فيروس|virus|viːruːs|فِيرُوس
+باريس (پَارِيس)|Paris|paːriːs|بَارِيس (پاريس)
+دينار / دنانر|dinar|diːnaːr / danaːnɪr|دِينَار / دَنَانِر
+طريق / طرق|road|tˤariːq / tˤʊrʊq|طَرِيق / طُرُق
+ضمان / ضمانات|guarantee|dˤamaːn / dˤamaːnaːt|ضَمَان / ضَمَانَات
+كيف|how|kajfa|كَيْفَ
+آب|August|ʔaːb|آب
+أول / أوائل|first|ʔawwal / ʔawaːʔɪlʊ|أَوَّل / أَوَائِلُ
+إدارة|administration|ʔɪdaːraʰ|إِدَارَة
+سؤال / أسئلة|question|sʊʔaːl / ʔasʔɪlaʰ|سُؤَال / أَسْئِلَة
+نائم|asleep|naːʔɪm|نَائِم
+جبل / جبال|mountain|d͡ʒabal / d͡ʒɪbaːl|جَبَل / جِبَال
+ظلمة|darkness|ðˤʊlmaʰ|ظُلْمَة
+ذهب|gold|ðahab|ذَهَب
+سنة|year|sanaʰ|سَنَة
+زيارة|visit|zijaːraʰ|زِيَارَة
+صحيفة / صحف|newspaper|sˤaħiːfaʰ / sˤʊħʊf|صَحِيفَة / صُحُف
+شمس|sun|ʃams|شَمْس
+خلال|through|xɪlaːla|خِلَالَ
+غابة|forest|ɣaːbaʰ|غَابَة
+حتى|until|ħattaː|حَتَّى
+على|over|ʕalaː|عَلَى
+منذ|since|mʊnðʊ|مُنْذُ
+نحو|towards|naħwa|نَحْوَ
+رأس / رؤوس|head|rʊʔs / rʊʔuːs|رُأْس / رُؤُوس
+لحم|meat|laħm|لَحم
+سيارة|car|sajjaːraʰ|سَيَّارَة
+أنكر|denial|ʔɪnkar|أِنْكَر
+نائم|sleeping|naːʔɪm|نَائِم
+بناء|builder|bannaːʔ|بَنَّاء
+أثر / آثار|effect|ʔaθar /ʔaːθaːr|أَثَر / آثَار
+القرآن|the Koran|al-qʊr'ʔaːn|القُرْآن
+مدرسة / مدارس|school|madrasaʰ / madaːrasʊ|مَدْرَسَة / مَدَارَسُ
+مدرستنا|our school|madrasatnaː|مَدرَسَتنَا
+تاجر / تجار|trader|taːd͡ʒɪr / tʊdd͡ʒaːr|تَاجِر / تُجَّار
+ممثل|representative|mʊmaθθɪl|مُمَثِّل
