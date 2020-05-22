@@ -1,0 +1,142 @@
+@ Source: Thai script summary https://r12a.github.io/scripts/thai/
+§ Silom
+# 200
+~ ltr
+! th
+
+
+
+
+ไข่|egg|kʰàj
+โปรแกรม|(computer) program|proː krɛːm
+เปล่า|no|plàw
+ธรรม|justice|tʰam 
+กรรไกร|scissors|kan kraj
+ภรรยา|wife|pʰanrájaː
+เร็ว|fast|rew
+รถเมล์|bus|rotmeː
+ศักดิ์สิทธิ์|to be sacred|saksitʰ
+คอมพิวเตอร์|computer|kʰompʰiwtɤː
+โปสการ์ด|postcard|poːskaːt
+สแตมป์|stamp|satɛːm
+อิ่ม|to be full|ìm
+สะอาด|clean|sà àːt.
+อเมริกา|America|à meː rì kaː
+หมา|dog|mǎː
+หยุด|to stop|jùt
+ปลา|fish|plaː
+เปลี่ยน|to change|plìːan
+ตื่น|to wake up|tɯ̀ːn
+ห้องน้ำ|toilet|hôŋ nám
+ห้าม|to forbid|hâːm
+คนขับรถ|driver|kʰon kʰàp ròt 
+ทุกวัน ๆ|everyday|tʰùkwan-tʰùkwan
+กรุงเทพฯ (กรุงเทพมหานคร)|Bangkok|krūŋ tʰêːp (krūŋ tʰêːp mahǎː nákʰɔ̄ːn)
+ไก่|chicken|kàj
+จาน|tɕaːn|plate
+ชะฎา|(type of) crown|tɕʰádaː 
+ปะฏัก|(kind of) spear|pà tàk
+เด็ก|child|dèk
+เต่า|turtle|tàw
+ไบใม้|leaf|baj máj
+อ่าง|basin|àːŋ 
+ฃวด|bottle|kʰùːat 
+ฉิ่ง|small cymbal|tɕʰìŋ
+ฐาน|base|tʰǎːn
+ถุง|bag|tʰǔŋ
+ผึ้ง|bee|pʰɯ̂ŋ
+ฝา|lid|fǎː
+ศาลา|pavilion|sǎː laː
+ฤๅษี|hermit|rɯː sǐː
+เสือ|tiger|sɯ̌ːa
+หีบ|(kind of) box|hìːp
+ควาย|buffalo|kʰuaːj
+ฅน|person|kʰon
+ระฆัง|bell|rá kʰaŋ
+งู|snake|ŋuː
+ช้าง|elephant|tɕʰáːŋ
+โซ่|chain|sôː
+เฌอ|(kind of) tree|tɕʰɤː
+หญิง|woman|jǐŋ
+มณโฑ|Queen Montho|mon tʰoː
+ผู้เฒ่า|old man|pʰûː tʰâw
+เณร|young monk|neːn
+ทหาร|soldier|tʰá hǎːn
+ธง|flag|tʰoŋ
+หนู|mouse|nǔː
+พาน|tray|pʰaːn
+สำเภา|(kind of) ship|sǎm pʰaw
+ฟัน|tooth|fan
+ม้า|horse|máː
+ยักษ์|giant|ják
+เรือ|boat|rɯːa
+ลิง|monkey|liŋ
+แหวน|ring|wɛ̌ːn
+จุฬา|(kind of) kite|tɕù laː
+นกฮูก|owl|nók hûːk
+นี่|this|nîː
+นั่น|that (near)|nân
+โน่น|that (over there)|nôːn
+อะไร|what|à raj
+ใจ่|yes|tɕâj
+ไม่|no, not|mâj
+ไหม|question particle|máj
+ก็|also|kɔ̂ː
+ผม|I, me|pʰǒm
+คุณ|you|kʰun
+เงิน|money|ŋɤːn 
+โต๊ะ|table|tó
+เมือง|city|mɯːaŋ
+ทาง|way|tʰaːŋ
+ซ้าย|left|sáːj
+เยน|yen|jeːn
+ถูก|cheap|tʰùːk
+แพง|expensive|pʰɛːŋ
+ทำ|to do, make|tʰam
+ชอบ|to like|tɕʰôp
+ดื่ม|to drink|dɯ̀ːm
+เขียน|to write|kʰǐːan
+ข้าว|rice|kʰâːw
+แล้ว|already|lɛ́ːw
+เร็ว|soon|rew
+เช้า|morning|tɕʰáw
+เย็น|evening|jen
+มือ|hand|mɯː
+หอย|shellfish|hɔ̌ːj
+แพะ|goat|pʰɛ́
+มืด|dark|mɯ̂ːt
+แกะ|sheep|kɛ̀
+อ่อนแอ|weak|òn ɛː
+เครื่อง|machine|kʰrɯ̂ːaŋ
+กลัว|to be afraid|kluːa
+หก|six|hòk
+บรมสุข|great happiness|bɔra-másùk
+พรรค|group|pʰak
+เมฆ|cloud|mêːk
+ดุจ|to like|dùt
+ประโยชน์|to be useful|prà-jòːt
+ปรากฏ|to seem, appear|praːkòt
+ประเสริฐ|precious, esteemed|pràsɤ̀ːt
+ครุฑ|garuda, mythical bird|kʰrút
+กฎ|rule|kòt
+คุณ|title before given name|kʰun
+ชีวิต|life, age|tɕʰiː-wít
+รถ|vehicle|rót
+บาท|baht|bàːt
+โกรธ|to be angry|kròːt
+ตลาด|marketplace|tà-làːt
+อ้วน|to be fat|ûːan
+ทวีป|continent|tʰá-wîːp
+ลาภ|fortune|lâːp
+ดิบ|raw, unripe|dìp
+ยิ้ม|smile|jím
+ตำบล|district|tambon
+ลคุฬ|walking stick|lákʰun
+บังเอิญ|accidentally|baŋ-ɤːn
+นคร|city|nákʰᴐːn
+โอกาส|opportunity|oːkàːt
+อากาศ|air|aːkàːt
+พิษ|poison|pʰít
+
+
+
