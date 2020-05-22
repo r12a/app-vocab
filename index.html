@@ -12,8 +12,6 @@
 <script src="drawVocab.js"></script> 
 </head>
 
-<!--body class="app" 
-onLoad="actionRoutine('toForeign'); actionRoutine('toReview')"-->
 <body class="app">
 <header>
 <div id="header-boilerplate"></div>
@@ -59,6 +57,7 @@ onLoad="actionRoutine('toForeign'); actionRoutine('toReview')"-->
 							  +"size: " + f.size + " bytes\n"
 								)
 						_logfile += contents
+						_logfile = _logfile.replace(/•/g, '&nbsp;')
 						lineList = _logfile.split('\n')
 						lineList.push('|End of list reached.||')
 						
@@ -162,133 +161,7 @@ onLoad="actionRoutine('toForeign'); actionRoutine('toReview')"-->
  
 <div id="test_tab_area">
 
-<div class="sidebar noprint"> 
-	<!--h2 id="data" style="margin-top: 0;">Load vocab</h2> 
-	<div>	
-	
-	<input type="file" id="fileinput" multiple />
-
-	<!-- READ THE FILE(S) -->
-	<!--script>
-	var _logfile = ''
-
-	function readMultipleFiles(evt) {
-		//Retrieve all the files from the FileList object
-		var files = evt.target.files
-		window.wordList = []
-
-		if (files) {
-			for (var i=0, f; f=files[i]; i++) {
-				var r = new FileReader()
-				r.onload = (function(f) {
-					return function(e) {
-						// clear current UI
-						document.getElementById('foreign').textContent = 'Language to learn'
-						document.getElementById('foreign').dir = 'ltr'
-						document.getElementById('foreign').style.fontSize = '100%'
-						document.getElementById('foreign').style.fontFamily = 'ralewaywf'
-						document.getElementById('local').textContent = 'My language'
-						document.getElementById('transcrip').textContent = 'Transcription'
-						_logfile = ''
-						_counter = -1
-						
-						var contents = e.target.result
-						console.log( "Got the file.\n" 
-							  +"name: " + f.name + "\n"
-							  +"type: " + f.type + "\n"
-							  +"size: " + f.size + " bytes\n"
-								)
-						_logfile += contents
-						lineList = _logfile.split('\n')
-						lineList.push('|End of list reached.||')
-						
-						
-						// remove metadata
-						if (debug) console.log('lineList',lineList)
-						var metadata, value
-						for (var m=0;m<lineList.length;m++) {
-							if (debug) console.log(m)
-							if (lineList[m].startsWith('@')) {
-								metadata = lineList.splice(m, 1)
-								if (debug) console.log('Removed', metadata[0])
-								m--
-								}
-							else if (lineList[m].startsWith('§')) {
-								metadata = lineList.splice(m, 1)
-								value = metadata[0].replace('§ ','')
-								if (debug) console.log('Set font to ', value)
-								document.getElementById('foreign').style.fontFamily = value
-								_fontFamily = value
-								m--
-								}
-							else if (lineList[m].startsWith('#')) {
-								metadata = lineList.splice(m, 1)
-								value = metadata[0].replace('# ','')+'%'
-								if (debug) console.log('Set font-size to ',value)
-								document.getElementById('foreign').style.fontSize = value
-								_fontSize = value
-								m--
-								}
-							else if (lineList[m].startsWith('~')) {
-								metadata = lineList.splice(m, 1)
-								value = metadata[0].replace('~ ','')
-								if (debug) console.log('Set direction to ',value)
-								document.getElementById('foreign').dir = value
-								_direction = value
-								m--
-								}
-							else if (lineList[m].startsWith('!')) {
-								metadata = lineList.splice(m, 1)
-								if (debug) console.log('Set direction to ',metadata[0].replace('! ',''))
-								document.getElementById('foreign').lang = metadata[0].replace('! ','')
-								m--
-								}
-							else if (lineList[m] == '') {
-								metadata = lineList.splice(m, 1)
-								if (debug) console.log('Removed blank line')
-								m--
-								}
-							}
-						if (debug) console.log('Reduced lineList',lineList)
-						
-
-						// split the remaining lineList items into a mutlidimensional array
-						for (var n=0;n<lineList.length;n++) {
-							window.wordList[n] = lineList[n].split('|')
-							while (window.wordList[n].length <= 4) wordList[n].push('')
-							}
-						if (debug) console.log('wordList',window.wordList)
-
-						
-						// check whether there are notes (affects drawing of table later)
-						settings.thereAreNotes = false
-						for (var n=0;n<wordList.length;n++) {
-							if (wordList[n][3] === '') {
-								settings.thereAreNotes = true
-								break
-								}
-							}
-						
-						// draw up the list
-						printAll()
-				   		}
-				})(f)
-				if (debug) console.log('logfile:',_logfile)
-
-				r.readAsText(f)
-			}   
-		} else {
-			  alert("Failed to load files")
-		}
-	  }
-
-	
-	document.getElementById('fileinput').addEventListener('change', readMultipleFiles, false)
-</script>
-
-	</div-->
- 
- 
+<div class="sidebar noprint">  
  
 <h2 id="test_navigation" style="margin-bottom: .5em; margin-top: 1em;">Navigation</h2>  
 <div id="controls">
@@ -336,7 +209,6 @@ onLoad="actionRoutine('toForeign'); actionRoutine('toReview')"-->
 
 <div id="list_tab_area">
 
-<!--p><button onClick="printAll()">List all</button> <button onClick="document.getElementById('printout').innerHTML = ''">Clear</button></p-->
 <table id="printout"></table>
 
 </div>
@@ -347,41 +219,12 @@ onLoad="actionRoutine('toForeign'); actionRoutine('toReview')"-->
 
 <div id="find_tab_area">
 
-<!--p><button onClick="printAll()">List all</button> <button onClick="document.getElementById('printout').innerHTML = ''">Clear</button></p-->
-
 
 <p><label>Find words containing the following: <input id="needle" type="text" placeholder="Regular expressions can be used."  onChange="document.getElementById('foundItems').innerHTML = findWords(document.getElementById('needle').value, '')"></label> &nbsp;&nbsp;
 <button onClick="document.getElementById('foundItems').innerHTML = findWords(document.getElementById('needle').value, '')">Go</button>
 </p>
 
 <p><label>Items found: <span id="found"></span></label><br/><table id="foundItems"></table></p>
-<!--p><label>Output: <span id="found"></span><br/><textarea id="out" style="width: 100%; height: 600px; font-size: 100%;">Results go here</textarea></label></p>
-<script>
-function findWords (reg, sortkey) { 
-
-    var regex = new RegExp(reg)
-    out = []
-    for (i=0;i<window.lineList.length;i++) {
-        if (window.lineList[i].match(regex)) out.push( window.lineList[i] )
-        }
-    out.sort(compareByWord)
-    document.getElementById('found').textContent = out.length
-    
-    str = ''
-    for (let i=0;i<out.length;i++) {
-        str += out[i]+'\n'
-        }
-    return str
-	}
-
-function compareByWord(a,b) { 
-  if (a < b)         
-    return 1;
-  if (a > b)
-    return -1;
-  return 0;
-	}
-</script-->
 </div>
 
 
@@ -414,7 +257,6 @@ for (var p=0;p<parameters.length;p++) {
 	}
 
 
-//document.getElementById('displayArea').style.height = window.innerHeight/100*60
-	</script>
+</script>
 </body>
 </html>

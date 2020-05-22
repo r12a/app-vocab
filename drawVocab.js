@@ -68,18 +68,18 @@ function actionRoutine ( context, location ) {
 			settings.revealAnswer = 'phased'
 			settings.counter--
 			settings.answered=true
-			document.getElementById('foreign').textContent = ''
-			document.getElementById('local').textContent = ''
-			document.getElementById('transcrip').textContent = ''
+			document.getElementById('foreign').innerHTML = ''
+			document.getElementById('local').innerHTML = ''
+			document.getElementById('transcrip').innerHTML = ''
 			gotoNext()
 			break
 	case 'toQuick':	 
 			settings.revealAnswer = 'quick'
 			settings.counter--
 			settings.answered=true
-			if (settings.testDirection === 'localAtTop') document.getElementById('foreign').textContent = ''
-			else document.getElementById('local').textContent = ''
-			document.getElementById('transcrip').textContent = ''
+			if (settings.testDirection === 'localAtTop') document.getElementById('foreign').innerHTML = ''
+			else document.getElementById('local').innerHTML = ''
+			document.getElementById('transcrip').innerHTML = ''
 			gotoNext()
 			break
 	case 'showTransc':	 
@@ -127,15 +127,6 @@ function actionRoutine ( context, location ) {
 
 
 
-function OLDgotoNext () {
-	if (_revealAnswer == 'always') { _counter++; testNextItem('visible'); answered=true; } 
-	if (_revealAnswer == 'never') { _counter++; testNextItem('hidden'); answered=true; } 
-	if (_revealAnswer == 'phased') {  
-		if (answered) { _counter++; testNextItem('hidden'); answered=false; }
-		else { revealAnswer(); answered=true; }
-		}
-	}
-
 
 
 function gotoNext () {
@@ -172,19 +163,19 @@ function gotoNext () {
 
 function showItem (type) {
 	if (type === 'review') {
-		document.getElementById('foreign').textContent = wordList[settings.counter][_foreignText]
-		document.getElementById('local').textContent = wordList[settings.counter][_localText]
-		document.getElementById('transcrip').textContent = wordList[settings.counter][_transcription]
+		document.getElementById('foreign').innerHTML = wordList[settings.counter][_foreignText]
+		document.getElementById('local').innerHTML = wordList[settings.counter][_localText]
+		document.getElementById('transcrip').innerHTML = wordList[settings.counter][_transcription]
 		}
 		
 	if (type === 'quick') {
 		if (settings.testDirection === 'localAtTop') {
-			document.getElementById('local').textContent = wordList[settings.counter][_localText]
-			document.getElementById('foreign').textContent = ''
+			document.getElementById('local').innerHTML = wordList[settings.counter][_localText]
+			document.getElementById('foreign').innerHTML = ''
 			}
 		else {
-			document.getElementById('foreign').textContent = wordList[settings.counter][_foreignText]
-			document.getElementById('local').textContent = ''
+			document.getElementById('foreign').innerHTML = wordList[settings.counter][_foreignText]
+			document.getElementById('local').innerHTML = ''
 			}
 		}
 		
@@ -194,27 +185,27 @@ function showItem (type) {
 		console.log('testDirection',settings.testDirection)
 		if (settings.testDirection === 'localAtTop') {
 			if (settings.answered) {
-				document.getElementById('local').textContent = wordList[settings.counter][_localText]
-				document.getElementById('foreign').textContent = ''
-				document.getElementById('transcrip').textContent = ''
+				document.getElementById('local').innerHTML = wordList[settings.counter][_localText]
+				document.getElementById('foreign').innerHTML = ''
+				document.getElementById('transcrip').innerHTML = ''
 				settings.answered = false
 				}
 			else {
-				document.getElementById('foreign').textContent = wordList[settings.counter][_foreignText]
-				document.getElementById('transcrip').textContent = wordList[settings.counter][_transcription]
+				document.getElementById('foreign').innerHTML = wordList[settings.counter][_foreignText]
+				document.getElementById('transcrip').innerHTML = wordList[settings.counter][_transcription]
 				settings.answered = true
 				}
 			}
 		else {
 			if (settings.answered) {
-				document.getElementById('foreign').textContent = wordList[settings.counter][_foreignText]
-				document.getElementById('local').textContent = ''
-				document.getElementById('transcrip').textContent = ''
+				document.getElementById('foreign').innerHTML = wordList[settings.counter][_foreignText]
+				document.getElementById('local').innerHTML = ''
+				document.getElementById('transcrip').innerHTML = ''
 				settings.answered = false
 				}
 			else {
-				document.getElementById('local').textContent = wordList[settings.counter][_localText]
-				document.getElementById('transcrip').textContent = wordList[settings.counter][_transcription]
+				document.getElementById('local').innerHTML = wordList[settings.counter][_localText]
+				document.getElementById('transcrip').innerHTML = wordList[settings.counter][_transcription]
 				settings.answered = true
 				}
 			}
@@ -304,7 +295,7 @@ function findWords (reg, sortkey) {
         }
     result.sort(compareByWord)
 
-	document.getElementById('found').textContent = result.length
+	document.getElementById('found').innerHTML = result.length
 
     var out = ''
 	var itemArray
@@ -318,6 +309,7 @@ function findWords (reg, sortkey) {
 			if (wordList[i][_notes] == null) out += '<td></td>'
 			else out += '<td>'+itemArray[3]+'</td>'
 			}
+		out += '<td>'+itemArray.join('|').replace(/&nbsp;/g,'•')+'</td>'
 		out += '</tr>\n'
         } console.log(out)
     return out
