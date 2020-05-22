@@ -4,18 +4,19 @@
 ~ rtl
 ! ar
 
+
 @ 1
-رجل/رجال|man|rad͡ʒʊl/rɪd͡ʒaːl|رَجُل/رِجَال
-بيت/بيوت|house|bajt/bʊjuːt|بَيت/بُيُوت
-كتاب/كتب|book|kɪtaːb/kʊtʊb|كِتَاب/كُتُب
-باب/أبواب|door|baːb/ʔabwaːb|بَاب/أَبوَاب
-مدير/مديرون|manager|mʊdiːr/mʊdiːruːn|مُدِير/مُدِيرُون
-شارع/شوارع|street|ʃaːrɪʕ/ʃawaːrɪʕ|شَارِع/شَوَارِع
-ولد/أولاد|boy|walad/ʔawlaːd|وَلَد/أَولَاد
-مكتب/مكاتب|office, desk|maktab, makaːtɪb|مَكتَب/مَكَاتِب
-شباك/شبابيك|window|ʃʊbbaːk/ʃabaːbiːk|شُبَّاك/شَبَابِيك
-مطار/مطارات|airport|matˤaːr/matˤaːraːt|مَطَار/مَطَارَات
-هرم / أهرام|pyramid|ˈharam / ʔahˈraːm|هَرَم / أَهرَام
+رجل • رجال|man|rad͡ʒʊl • rɪd͡ʒaːl|رَجُل • رِجَال
+بيت • بيوت|house|bajt • bʊjuːt|بَيت • بُيُوت
+كتاب • كتب|book|kɪtaːb • kʊtʊb|كِتَاب • كُتُب
+باب • أبواب|door|baːb • ʔabwaːb|بَاب • أَبوَاب
+مدير • مديرون|manager|mʊdiːr • mʊdiːruːn|مُدِير • مُدِيرُون
+شارع • شوارع|street|ʃaːrɪʕ • ʃawaːrɪʕ|شَارِع • شَوَارِع
+ولد • أولاد|boy|walad • ʔawlaːd|وَلَد • أَولَاد
+مكتب • مكاتب|office, desk|maktab, makaːtɪb|مَكتَب • مَكَاتِب
+شباك • شبابيك|window|ʃʊbbaːk • ʃabaːbiːk|شُبَّاك • شَبَابِيك
+مطار • مطارات|airport|matˤaːr • matˤaːraːt|مَطَار • مَطَارَات
+هرم  •  أهرام|pyramid|ˈharam • ʔahˈraːm|هَرَم • أَهرَام
 شاي|tea|ʃaːj|شَاي
 سكر|sugar|ˈsʊkkar|سُكَّر
 تاكسي|taxi|ˈtaːksiː|تَاكسِي
@@ -24,16 +25,16 @@
 سندوتش|sandwich|sandawɪtʃ|سَندَوِتش
 
 طويل|tall (person)|tˤawiːl|طَوِيل
-قصير / قصار|short|qasˤiːr / qɪsˤaːr|قَصِير / قِصَار
-كبير / كبار|big; old (people)|kabiːr / kɪbaːr|كَبِير / كِبَار
-صغير / صغار|small; young (people)|sˤaɣiːr / sˤɪɣaːr|صَغِير / صِغَار
+قصير • قصار|short|qasˤiːr • qɪsˤaːr|قَصِير • قِصَار
+كبير • كبار|big; old (people)|kabiːr • kɪbaːr|كَبِير • كِبَار
+صغير • صغار|small; young (people)|sˤaɣiːr • sˤɪɣaːr|صَغِير • صِغَار
 مشغول|busy|maʃɣuːl|مَشْغُول
 واسع|spacious|waːsɪʕ|وَاسِع
 مفيد|useful|mʊfiːd|مُفِيد
-مشهور / مشاهير|famous|maʃhuːr / maʃaːhiːr|مَشْهُور / مَشَاهِير
-نحيف / نحاف|thin|naħiːf / nɪħaːf|نَحِيف / نِحَاف
+مشهور • مشاهير|famous|maʃhuːr • maʃaːhiːr|مَشْهُور • مَشَاهِير
+نحيف • نحاف|thin|naħiːf • nɪħaːf|نَحِيف • نِحَاف
 بعيد|far, distant|baʕiːd|بَعِيد
-نضيف / نضاف|clean|nadˤiːf / nɪdˤaːf|نَضِيف / نِضَاف
+نضيف • نضاف|clean|nadˤiːf • nɪdˤaːf|نَضِيف • نِضَاف
 
 السلام عليكم|hello|assaˈlaːm ʕaˈlajkʊm|السَلَام عَلَيكُم
 وعليكم السلام|hello (in reply)|waʕaˈlajkʊm assaˈlaːm|وَعَلَيكُم السَلَام
@@ -41,7 +42,7 @@
 صباح النور|good morning (in reply)|sˤaˈbaːħ annuːr|صَبَاح النُور
 مساء الخير|good evening|maˈsaːʔ al-xajr|مَسَاء الخَير
 مساء النور|good evening (in reply)|maˈsaːʔ annuːr|مَسَاء النُور
-كيف حالك؟|How are you?|kajfa ˈħaːl(a/i)k?|كَيفَ حَالَك؟
+كيف حالك؟|How are you?|kajfa ˈħaːl(a•i)k?|كَيفَ حَالَك؟
 الحمد لله|reply to how are you|al-ˈħamdʊ lɪlˈlah|الحَمدُ لِلَّه
 بخير|well (reply to how are you)|bɪxajr|بِخَير
 أهلا وسهلا|welcome!|ˈʔahlan wa-ˈsahlan|أَهلًا وَسَهلًا
@@ -60,16 +61,16 @@
 
 
 @2
-اسم / إسماء|name|ɪsm / ʔɪsmaːʔ|اِسم / إِسمَاء
-طالب / طلاب|student|tˤaːlib / tˤullaːb|طَالِب / طُلَّاب
-كاتب / كتاب|scribe|kaːtɪb / kɪttaːb|كَاتِب / كِتَّاب
-مدينة / مدن|city|madiːnaʰ / mʊdʊn|مَدِينَة / مُدُن
-متحف / متاحف|museum|matħaf / mataːħɪf|مَتحَف / مَتَاحِف
-فندق / فنادق|hotel|ˈfʊndʊq / fanaːdɪqʊ|فُندُق / فَنَادِقُ
-مطعم / مطاعم|restaurant|ˈmatˤʕam / matˤaːʕɪmʊ|مَطعَم / مَطَاعِمُ
+اسم • إسماء|name|ɪsm • ʔɪsmaːʔ|اِسم • إِسمَاء
+طالب • طلاب|student|tˤaːlib • tˤullaːb|طَالِب • طُلَّاب
+كاتب • كتاب|scribe|kaːtɪb • kɪttaːb|كَاتِب • كِتَّاب
+مدينة • مدن|city|madiːnaʰ • mʊdʊn|مَدِينَة • مُدُن
+متحف • متاحف|museum|matħaf • mataːħɪf|مَتحَف • مَتَاحِف
+فندق • فنادق|hotel|ˈfʊndʊq • fanaːdɪqʊ|فُندُق • فَنَادِقُ
+مطعم • مطاعم|restaurant|ˈmatˤʕam • matˤaːʕɪmʊ|مَطعَم • مَطَاعِمُ
 رقم تلفون|telephone number|raqm tɪlɪˈfuːn|رَقْم تِلِفُون
 سيارة|car|sajˈjaːraʰ|سَيَّارَة
-مطار / مطارات|airport|matˤaːr / matˤaːraːt|مَطَار / مَطَارَات
+مطار • مطارات|airport|matˤaːr • matˤaːraːt|مَطَار • مَطَارَات
 
 
 حسن|well, right, ok|ħasanan|حَسَنً
@@ -77,7 +78,7 @@
 طبعا|naturally, of course|ˈtˤabʕan|طَبعًا
 
 
-ما؟ / ماذا؟|what?|maː? / maːðaː?|مَا؟ / مَاذَا؟
+ما؟ • ماذا؟|what?|maː? • maːðaː?|مَا؟ • مَاذَا؟
 
 
 على|on|ˈʕalaː|عَلَى
@@ -103,11 +104,11 @@
 
 
 أن|I|ˈʔana|أَنَ
-أنت|you (m/f)|ˈʔanta / ˈʔantɪ|أَنتَ / أَنتِ
-هو / هي|he, she|ˈhuwa / ˈhija|هُوَ / هِي
+أنت|you (m•f)|ˈʔanta • ˈʔantɪ|أَنتَ • أَنتِ
+هو • هي|he, she|ˈhuwa • ˈhija|هُوَ • هِي
 نحن|we|ˈnaħnʊ|نَحنُ
-أنتم / أنتن|you (m pl, f pl)|ʔantʊm / ʔantʊnna|أَنتُم / أَنتُنَّ
-هم / هن|they (m pl, f pl)|hʊm / hʊnna|هُم / هُنَّ
+أنتم • أنتن|you (m pl, f pl)|ʔantʊm • ʔantʊnna|أَنتُم • أَنتُنَّ
+هم • هن|they (m pl, f pl)|hʊm • hʊnna|هُم • هُنَّ
 
 
 
@@ -121,18 +122,18 @@
 
 طبيب أسنان|dentist|tˤabiːb ʔasnaːn|طَبِيب أَسنَان
 صيدلية|pharmacy|sˤajdaliːjaʰ|صَيدَلِيَّة
-راكب / ركاب|passenger|raːkɪb / rʊkkaːb|رَاكِب / رُكَّاب
+راكب • ركاب|passenger|raːkɪb • rʊkkaːb|رَاكِب • رُكَّاب
 جامعة|university|ˈd͡ʒaːmɪʕaʰ|جَامِعَة
-طبيب / أطباء|doctor|tˤabiːb / ʔatˤɪbbaːʔʊ|طَبِيب / أَطِبَّاءُ
-مدرس / مدرسون|teacher|mʊdarrɪs / mʊdarrɪsuːn|مُدَرِّس / مُدَرِّسُون
-مهندس / مهندسون|engineer|mʊhandɪs / mʊhandɪsuːn|مُهَندِس / مُهَندِسُون
+طبيب • أطباء|doctor|tˤabiːb • ʔatˤɪbbaːʔʊ|طَبِيب • أَطِبَّاءُ
+مدرس • مدرسون|teacher|mʊdarrɪs • mʊdarrɪsuːn|مُدَرِّس • مُدَرِّسُون
+مهندس • مهندسون|engineer|mʊhandɪs • mʊhandɪsuːn|مُهَندِس • مُهَندِسُون
 مدير|manager|mʊdiːr|مُدِير
 رئيس|boss|raʔiːs|رَئِيس
-جسر / جسور|bridge|d͡ʒɪsr / d͡ʒʊsuːr|جِسر / جُسُور
-محل / محلات|shop, store|maħall / maħallaːt|مَحَلّ / مَحَلَّات
+جسر • جسور|bridge|d͡ʒɪsr • d͡ʒʊsuːr|جِسر • جُسُور
+محل • محلات|shop, store|maħall • maħallaːt|مَحَلّ • مَحَلَّات
 وسط (وسط)|middle|wastˤ (wasatˤ)|وَسط (وَسَط)
 حقيبة \ حقائب|bag|ħaˈqiːbaʰ \ ħaqaːʔɪbʊ|حَقِيبَة \ حَقَائِبُ
-غرفة / غرف|room|ɣʊrfaʰ / ɣʊraf|غُرفَة / غُرَف
+غرفة • غرف|room|ɣʊrfaʰ • ɣʊraf|غُرفَة • غُرَف
 لغة|language|ˈlʊɣaʰ|لُغَة
 جنسية|nationality|d͡ʒɪnsijjaʰ|جِنسِيَّة
 
@@ -169,18 +170,18 @@
 @ क क़ कि की के क़ि क़ी क़े क्क क्कि क्की र्क र्क्क र्क्कि स्त्र स्त्रि स्त्री
 
 @summary
-ريح / رياح|wind|riːħ / rijaːħ|رِيح / رِيَاح
-اسم / إسماء|name|ɪsm / ʔɪsmaːʔ|اِسم / إِسمَاء
-أذن / آذان|ear|ʔʊðʊn /ʔaːðaːn|أُذُن / آذَان
-دودة / ديدان|worm|duːdaʰ / diːdaːn|دُودَة / دِيدَان
+ريح • رياح|wind|riːħ • rijaːħ|رِيح • رِيَاح
+اسم • إسماء|name|ɪsm • ʔɪsmaːʔ|اِسم • إِسمَاء
+أذن • آذان|ear|ʔʊðʊn •ʔaːðaːn|أُذُن • آذَان
+دودة • ديدان|worm|duːdaʰ • diːdaːn|دُودَة • دِيدَان
 سكرتير|secretary|sɪkrɪteːr|سِكرِتِير
-قدم / أقدام|foot|qadam / ʔaqdaːm|قَدَم / أَقدَام
-ساق / سيقان|leg|saːq / siːqaːn|سَاق / سِيقَان
+قدم • أقدام|foot|qadam • ʔaqdaːm|قَدَم • أَقدَام
+ساق • سيقان|leg|saːq • siːqaːn|سَاق • سِيقَان
 رمى|to throw|ramaː|رَمَى
-ليلة / ليال|night|lajlaʰ / lajaːlɪn|لَيْلَة / لَيَالٍ
-يوم / أيام|day|jawm / ʔajjaːm|يَوْم / أَيَّام
+ليلة • ليال|night|lajlaʰ • lajaːlɪn|لَيْلَة • لَيَالٍ
+يوم • أيام|day|jawm • ʔajjaːm|يَوْم • أَيَّام
 
-قلب / قلوب|heart|qalb / qʊluːb|قَلب / قُلُوب
+قلب • قلوب|heart|qalb • qʊluːb|قَلب • قُلُوب
 تاريخ|history|taːriːx|تَارِيخ
 أن|I|ˈʔana|أَنَ
 رسميا|officially|rasmiːjan|رَسمِيًا
@@ -192,27 +193,27 @@
 أفعى|snake|ʔafʕan|أَفعًى
 عادة|usually|ʕaːdatan|عَادَةً
 هذا|this (s.)|haːða|هٰذَا
-ذٰلك / تلك|that|ðaːlɪka / tɪlka|ذٰلِكَ / تِلكَ
-عين / أعين|eye|ʕajn / ʔaʕjʊn f.|عَيْن / أَعْيُن
+ذٰلك • تلك|that|ðaːlɪka • tɪlka|ذٰلِكَ • تِلكَ
+عين • أعين|eye|ʕajn • ʔaʕjʊn f.|عَيْن • أَعْيُن
 عودة|return|ʕawdaʰ (n.)|عَوْدَة
 باكستان|Pakistan|paːkɪstaːn|بَاكِسْتَان
 فيروس|virus|viːruːs|فِيرُوس
 باريس (پَارِيس)|Paris|paːriːs|بَارِيس (پاريس)
-دينار / دنانر|dinar|diːnaːr / danaːnɪr|دِينَار / دَنَانِر
-طريق / طرق|road|tˤariːq / tˤʊrʊq|طَرِيق / طُرُق
-ضمان / ضمانات|guarantee|dˤamaːn / dˤamaːnaːt|ضَمَان / ضَمَانَات
+دينار • دنانر|dinar|diːnaːr • danaːnɪr|دِينَار • دَنَانِر
+طريق • طرق|road|tˤariːq • tˤʊrʊq|طَرِيق • طُرُق
+ضمان • ضمانات|guarantee|dˤamaːn • dˤamaːnaːt|ضَمَان • ضَمَانَات
 كيف|how|kajfa|كَيْفَ
 آب|August|ʔaːb|آب
-أول / أوائل|first|ʔawwal / ʔawaːʔɪlʊ|أَوَّل / أَوَائِلُ
+أول • أوائل|first|ʔawwal • ʔawaːʔɪlʊ|أَوَّل • أَوَائِلُ
 إدارة|administration|ʔɪdaːraʰ|إِدَارَة
-سؤال / أسئلة|question|sʊʔaːl / ʔasʔɪlaʰ|سُؤَال / أَسْئِلَة
+سؤال • أسئلة|question|sʊʔaːl • ʔasʔɪlaʰ|سُؤَال • أَسْئِلَة
 نائم|asleep|naːʔɪm|نَائِم
-جبل / جبال|mountain|d͡ʒabal / d͡ʒɪbaːl|جَبَل / جِبَال
+جبل • جبال|mountain|d͡ʒabal • d͡ʒɪbaːl|جَبَل • جِبَال
 ظلمة|darkness|ðˤʊlmaʰ|ظُلْمَة
 ذهب|gold|ðahab|ذَهَب
 سنة|year|sanaʰ|سَنَة
 زيارة|visit|zijaːraʰ|زِيَارَة
-صحيفة / صحف|newspaper|sˤaħiːfaʰ / sˤʊħʊf|صَحِيفَة / صُحُف
+صحيفة • صحف|newspaper|sˤaħiːfaʰ • sˤʊħʊf|صَحِيفَة • صُحُف
 شمس|sun|ʃams|شَمْس
 خلال|through|xɪlaːla|خِلَالَ
 غابة|forest|ɣaːbaʰ|غَابَة
@@ -220,15 +221,15 @@
 على|over|ʕalaː|عَلَى
 منذ|since|mʊnðʊ|مُنْذُ
 نحو|towards|naħwa|نَحْوَ
-رأس / رؤوس|head|rʊʔs / rʊʔuːs|رُأْس / رُؤُوس
+رأس • رؤوس|head|rʊʔs • rʊʔuːs|رُأْس • رُؤُوس
 لحم|meat|laħm|لَحم
 سيارة|car|sajjaːraʰ|سَيَّارَة
 أنكر|denial|ʔɪnkar|أِنْكَر
 نائم|sleeping|naːʔɪm|نَائِم
 بناء|builder|bannaːʔ|بَنَّاء
-أثر / آثار|effect|ʔaθar /ʔaːθaːr|أَثَر / آثَار
+أثر • آثار|effect|ʔaθar •ʔaːθaːr|أَثَر • آثَار
 القرآن|the Koran|al-qʊr'ʔaːn|القُرْآن
-مدرسة / مدارس|school|madrasaʰ / madaːrasʊ|مَدْرَسَة / مَدَارَسُ
+مدرسة • مدارس|school|madrasaʰ • madaːrasʊ|مَدْرَسَة • مَدَارَسُ
 مدرستنا|our school|madrasatnaː|مَدرَسَتنَا
-تاجر / تجار|trader|taːd͡ʒɪr / tʊdd͡ʒaːr|تَاجِر / تُجَّار
+تاجر • تجار|trader|taːd͡ʒɪr • tʊdd͡ʒaːr|تَاجِر • تُجَّار
 ممثل|representative|mʊmaθθɪl|مُمَثِّل
