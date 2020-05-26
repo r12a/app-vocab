@@ -1,5 +1,5 @@
 @ Source: Thai script summary https://r12a.github.io/scripts/thai/
-§ Silom
+§ 'Noto Serif Thai'
 # 200
 ~ ltr
 ! th
@@ -137,6 +137,18 @@
 โอกาส|opportunity|oːkàːt
 อากาศ|air|aːkàːt
 พิษ|poison|pʰít
-
+ว่าง|free, empty|wâːŋ
+ประเทศญี่ปุ่น|Japan|prà tʰêːt jíː pùn
+ฤทธิ์|supernatural power|rít
+อังกฤษ|English|aŋ krit
+ฤดู|season|rɯ duː
+ฤาษี|hermit|rɯː siː
+ฤก ษ์|auspicious time|rɤːk
+ทราย|sand|saːj
+พร|blessing|poːn 
+พิสดาร|peculiar|pʰit sa daːn
+จุลทัศน์|microscope|tɕun la tʰat
+พฤหัส|Thursday|pʰa rɯ hat
+พฤษภา|May|pʰrɯt sa pʰaː
 
 
