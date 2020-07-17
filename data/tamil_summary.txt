@@ -1,0 +1,20 @@
+@ Source: Tamil script summary https://r12a.github.io/scripts/tamil/
+§ 'Pavanam'
+# 200
+~ ltr
+! ta
+
+
+
+
+இலை|leaf|ʔil̪aɪ̯ (ilai)
+ஈரல்|liver|ʔiːɾ̪al̪ (īral)
+உண்|to eat|ʔuɳ (uṇ)
+ஊது|to blow|ʔuːd̪u (ūtu)
+ஊது|to blow|ʔuːd̪u (ūtu)
+எலும்பு|bone|ʔel̪umbu (elumpu)
+ஏரி|lake|ʔeːɾ̪i (ēri)
+ஒன்று|one|ʔonru (oṉṟu)
+ஆண்|man|ʔaːɳ (āṇ)
+ஐந்து|five|ʔaɪ̯n̪d̪u (aintu)
+
