@@ -67,7 +67,11 @@
 						var metadata, value
 						for (var m=0;m<lineList.length;m++) {
 							if (debug) console.log(m)
-							if (lineList[m].startsWith('@')) {
+							if (lineList[m].startsWith('@') ||
+								lineList[m].startsWith('/*') ||
+								lineList[m].startsWith('*/') ||
+								lineList[m].startsWith('autoExpand') ||
+								lineList[m].startsWith('`')) {
 								metadata = lineList.splice(m, 1)
 								if (debug) console.log('Removed', metadata[0])
 								m--
@@ -220,7 +224,7 @@
 <div id="find_tab_area">
 
 
-<p><label>Find words containing the following: <input id="needle" type="text" placeholder="Regular expressions can be used."  onChange="document.getElementById('foundItems').innerHTML = findWords(document.getElementById('needle').value, '')"></label> &nbsp;&nbsp;
+<p><label>Find words containing the following: <input id="needle" type="text" placeholder="Regular expressions can be used."  onInput="document.getElementById('foundItems').innerHTML = findWords(document.getElementById('needle').value, '')"></label> &nbsp;&nbsp;
 <button onClick="document.getElementById('foundItems').innerHTML = findWords(document.getElementById('needle').value, '')">Go</button>
 </p>
 
