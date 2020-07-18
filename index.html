@@ -104,6 +104,7 @@
 								metadata = lineList.splice(m, 1)
 								if (debug) console.log('Set direction to ',metadata[0].replace('! ',''))
 								document.getElementById('foreign').lang = metadata[0].replace('! ','')
+								_language = metadata[0].replace('! ','')
 								m--
 								}
 							else if (lineList[m] == '') {

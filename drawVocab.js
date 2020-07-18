@@ -29,6 +29,7 @@ var debug = false
 var _fontFamily = ''
 var _fontSize = ''
 var _direction = 'ltr'
+var _language = ''
 
 
 
@@ -310,7 +311,7 @@ function findWords (reg, sortkey) {
 			else out += '<td>'+itemArray[3]+'</td>'
 			}
 		//out += '<td>'+itemArray.join('|').replace(/&nbsp;/g,'•')+'</td>'
-		out += '<td>&lt;span class="eg" lang="osa"&gt;'+itemArray[0]+'&lt;/span&gt;</td>'
+		out += '<td>&lt;span class="eg" lang="'+_language+'"&gt;'+itemArray[0]+'&lt;/span&gt;</td>'
 		out += '</tr>\n'
         } console.log(out)
     return out
